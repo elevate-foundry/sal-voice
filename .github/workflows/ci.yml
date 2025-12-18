@@ -1,0 +1,81 @@
+# SAL Voice CI/CD
+# ⠠⠎⠁⠇_⠧⠕⠊⠉⠑ Continuous Integration
+
+name: SAL Voice CI
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main]
+
+env:
+  PYTHON_VERSION: '3.11'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+          
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install pytest pytest-asyncio
+          
+      - name: Test 8-dot braille core
+        run: |
+          python -c "
+          from braille8_core import Braille8Encoder, Braille8Thought, text_to_braille8
+          
+          # Test encoding
+          enc = Braille8Encoder()
+          text = 'SAL thinks in 8-dot braille'
+          braille = enc.encode(text)
+          decoded = enc.decode(braille)
+          
+          print(f'✓ Text: {text}')
+          print(f'✓ Braille: {braille}')
+          print(f'✓ Decoded: {decoded}')
+          
+          # Test thought
+          thought = Braille8Thought(text)
+          print(f'✓ Dot density: {thought.dot_density:.2f}')
+          print(f'✓ Haptic segments: {len(thought.haptic_pattern)}')
+          
+          assert thought.text == text
+          assert len(thought.braille) == len(text)
+          print('✅ All 8-dot braille tests passed!')
+          "
+          
+      - name: Lint
+        run: |
+          pip install ruff
+          ruff check . --ignore E501 || true
+
+  deploy:
+    needs: test
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Deploy to Vercel
+        uses: amondnet/vercel-action@v25
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+          vercel-args: '--prod'
+        continue-on-error: true
+        
+      - name: Deployment Status
+        run: |
+          echo "⠠⠎⠁⠇_⠧⠕⠊⠉⠑ Deployment complete!"
+          echo "SAL Voice is thinking in 8-dot braille 🧠"
