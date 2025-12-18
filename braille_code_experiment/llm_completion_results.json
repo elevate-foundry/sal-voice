@@ -1,0 +1,93 @@
+{
+  "experiment_date": "2025-12-17 23:00:45",
+  "model": "sal:latest",
+  "num_tests": 10,
+  "ascii_avg_similarity": 0.04579089454240887,
+  "braille_avg_similarity": 0.0,
+  "ascii_exact_matches": 0,
+  "braille_exact_matches": 0,
+  "p_value": 0.01115862880242388,
+  "conclusion": "ascii_better",
+  "test_details": [
+    {
+      "context_preview": "\n@app.route('/api/cascade/clarify', methods=['POST'])\ndef cascade_clarify():\n    \"\"\"Provide clarific",
+      "expected": "clarification = data.get('clarification', '')",
+      "ascii_prediction": "```python\nif 'input' in data:\n    # Process input data and generate response\n    response_data = pro",
+      "braille_prediction": " \t\u0001\u0019\u0011i\u0013\u0015\u0017\u0015u\u001e\u0011=\u0004\f\u0001\u000f",
+      "ascii_similarity": 0.05555555555555555,
+      "braille_similarity": 0.0
+    },
+    {
+      "context_preview": "\n@app.route('/api/fs/copy', methods=['POST'])\ndef fs_copy():\n    \"\"\"Copy a file or directory\"\"\"\n    ",
+      "expected": "source = data.get('source')",
+      "ascii_prediction": "`if 'source' in data and 'destination' in data:`",
+      "braille_prediction": " \b\u0001\u000f\u000f.\u0017\u0015u\u001e\u0011=\u0004\f\u0001\u000fi\f",
+      "ascii_similarity": 0.0,
+      "braille_similarity": 0.0
+    },
+    {
+      "context_preview": "            return result.single()[\"deleted\"] > 0\n            \n    def query_nodes(self, node_type: ",
+      "expected": "type_label = f\":{node_type.value}\" if node_type else \"\"",
+      "ascii_prediction": "```python\n            # Query nodes based on the provided type and properties\n            result = s",
+      "braille_prediction": "               \u0017\u0011\u001eu\u0017\u001d \u0017\u0011\u000eu\u0007\u001e.",
+      "ascii_similarity": 0.043478260869565216,
+      "braille_similarity": 0.0
+    },
+    {
+      "context_preview": "\n@app.route('/api/graph/node/<node_id>', methods=['GET'])\ndef graph_get_node(node_id):\n    \"\"\"Get a ",
+      "expected": "if node:",
+      "ascii_prediction": "`if not node: return jsonify({'error': 'Node not found'}), 404`\n\nThis line checks if the `node` obje",
+      "braille_prediction": " \b\u0001\u000f\u000f.\u0017\u0015u\u001e\u0011=\u0004\f\u0001\u000fi\f",
+      "ascii_similarity": 0.11764705882352941,
+      "braille_similarity": 0.0
+    },
+    {
+      "context_preview": "\"\"\"\n    \n    def __init__(self):\n        self.encoder = Braille8Encoder()\n        self.current_task:",
+      "expected": "self.task_history: List[CodingTask] = []",
+      "ascii_prediction": "\"\"\"\n    \n    def __init__(self):\n        self.encoder = Braille8Encoder()\n        self.current_task:",
+      "braille_prediction": "I can complete the next line of code in 8-dot braille. However, I need to know what language or prog",
+      "ascii_similarity": 0.08333333333333333,
+      "braille_similarity": 0.0
+    },
+    {
+      "context_preview": "        return False\n        \n    def type_braille(self, braille: str) -> bool:\n        \"\"\"Type brai",
+      "expected": "if file:",
+      "ascii_prediction": "```python\nif not file:\n    raise ValueError(\"No active file found\")\n```\n\nThis ensures that the funct",
+      "braille_prediction": "         \u0017\u0011\u001eu\u0017\u001d F\u0001\u0007\u000e\u0011 iv\u0011 ",
+      "ascii_similarity": 0.10526315789473684,
+      "braille_similarity": 0.0
+    },
+    {
+      "context_preview": "        self.text_content = '\\n'.join(lines)\n        \n    def insert_newline(self):\n        \"\"\"Inser",
+      "expected": "if self.cursor_line >= len(lines):",
+      "ascii_prediction": "```python\ndef insert_newline(self):\n    \"\"\"Insert a newline at cursor\"\"\"\n    lines = self.lines\n    ",
+      "braille_prediction": "                                                              ",
+      "ascii_similarity": 0.0,
+      "braille_similarity": 0.0
+    },
+    {
+      "context_preview": "        self.user_symbols[symbol] = kind\n        \n    def get_context_from_line(self, line: str, col",
+      "expected": "prefix_match = re.search(r'(\\w*)$', line[:col])",
+      "ascii_prediction": "```python\nprefix = line[:col].split()[-1]\n```\n\nThis line splits the input `line` into words and take",
+      "braille_prediction": "                                                              ",
+      "ascii_similarity": 0.05263157894736842,
+      "braille_similarity": 0.0
+    },
+    {
+      "context_preview": "\n@app.route('/api/update-content', methods=['POST'])\ndef update_content():\n    \"\"\"Update file conten",
+      "expected": "content = data.get('content', '')",
+      "ascii_prediction": "`if 'content' in data and 'filename' in data: ...`\n\nThis checks if both 'content' and 'filename' are",
+      "braille_prediction": " \b\u0001\u000f\u000f.\u0017\u0015u\u001e\u0011=\u0004\f\u0001\u000fi\f",
+      "ascii_similarity": 0.0,
+      "braille_similarity": 0.0
+    },
+    {
+      "context_preview": "        }\n        \n    def set_mode(self, mode: AccessibilityMode):\n        \"\"\"Set accessibility mod",
+      "expected": "self.announce(f\"Accessibility mode: {mode.value}\")",
+      "ascii_prediction": "```\n        if mode == AccessibilityMode.BRAILLE:\n            # Convert to braille representation\n  ",
+      "braille_prediction": "I'll complete the next line of code in 8-dot braille. Here it is:\n\n\n        }              \u0019\u0011\u000b \u000e\u0011",
+      "ascii_similarity": 0.0,
+      "braille_similarity": 0.0
+    }
+  ]
+}

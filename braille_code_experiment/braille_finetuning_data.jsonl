@@ -1,0 +1,838 @@
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2800?\n\n### Input:\nU+2800\n\n### Response:\n⠀ (dots: blank)"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2801?\n\n### Input:\nU+2801\n\n### Response:\n⠁ (dots: 1)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1\n\n### Input:\ndots 1\n\n### Response:\n⠁"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2802?\n\n### Input:\nU+2802\n\n### Response:\n⠂ (dots: 2)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2\n\n### Input:\ndots 2\n\n### Response:\n⠂"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2803?\n\n### Input:\nU+2803\n\n### Response:\n⠃ (dots: 12)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12\n\n### Input:\ndots 12\n\n### Response:\n⠃"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2804?\n\n### Input:\nU+2804\n\n### Response:\n⠄ (dots: 3)"}
+{"text": "### Instruction:\nDraw the braille character with dots 3\n\n### Input:\ndots 3\n\n### Response:\n⠄"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2805?\n\n### Input:\nU+2805\n\n### Response:\n⠅ (dots: 13)"}
+{"text": "### Instruction:\nDraw the braille character with dots 13\n\n### Input:\ndots 13\n\n### Response:\n⠅"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2806?\n\n### Input:\nU+2806\n\n### Response:\n⠆ (dots: 23)"}
+{"text": "### Instruction:\nDraw the braille character with dots 23\n\n### Input:\ndots 23\n\n### Response:\n⠆"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2807?\n\n### Input:\nU+2807\n\n### Response:\n⠇ (dots: 123)"}
+{"text": "### Instruction:\nDraw the braille character with dots 123\n\n### Input:\ndots 123\n\n### Response:\n⠇"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2808?\n\n### Input:\nU+2808\n\n### Response:\n⠈ (dots: 4)"}
+{"text": "### Instruction:\nDraw the braille character with dots 4\n\n### Input:\ndots 4\n\n### Response:\n⠈"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2809?\n\n### Input:\nU+2809\n\n### Response:\n⠉ (dots: 14)"}
+{"text": "### Instruction:\nDraw the braille character with dots 14\n\n### Input:\ndots 14\n\n### Response:\n⠉"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+280A?\n\n### Input:\nU+280A\n\n### Response:\n⠊ (dots: 24)"}
+{"text": "### Instruction:\nDraw the braille character with dots 24\n\n### Input:\ndots 24\n\n### Response:\n⠊"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+280B?\n\n### Input:\nU+280B\n\n### Response:\n⠋ (dots: 124)"}
+{"text": "### Instruction:\nDraw the braille character with dots 124\n\n### Input:\ndots 124\n\n### Response:\n⠋"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+280C?\n\n### Input:\nU+280C\n\n### Response:\n⠌ (dots: 34)"}
+{"text": "### Instruction:\nDraw the braille character with dots 34\n\n### Input:\ndots 34\n\n### Response:\n⠌"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+280D?\n\n### Input:\nU+280D\n\n### Response:\n⠍ (dots: 134)"}
+{"text": "### Instruction:\nDraw the braille character with dots 134\n\n### Input:\ndots 134\n\n### Response:\n⠍"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+280E?\n\n### Input:\nU+280E\n\n### Response:\n⠎ (dots: 234)"}
+{"text": "### Instruction:\nDraw the braille character with dots 234\n\n### Input:\ndots 234\n\n### Response:\n⠎"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+280F?\n\n### Input:\nU+280F\n\n### Response:\n⠏ (dots: 1234)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1234\n\n### Input:\ndots 1234\n\n### Response:\n⠏"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2810?\n\n### Input:\nU+2810\n\n### Response:\n⠐ (dots: 5)"}
+{"text": "### Instruction:\nDraw the braille character with dots 5\n\n### Input:\ndots 5\n\n### Response:\n⠐"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2811?\n\n### Input:\nU+2811\n\n### Response:\n⠑ (dots: 15)"}
+{"text": "### Instruction:\nDraw the braille character with dots 15\n\n### Input:\ndots 15\n\n### Response:\n⠑"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2812?\n\n### Input:\nU+2812\n\n### Response:\n⠒ (dots: 25)"}
+{"text": "### Instruction:\nDraw the braille character with dots 25\n\n### Input:\ndots 25\n\n### Response:\n⠒"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2813?\n\n### Input:\nU+2813\n\n### Response:\n⠓ (dots: 125)"}
+{"text": "### Instruction:\nDraw the braille character with dots 125\n\n### Input:\ndots 125\n\n### Response:\n⠓"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2814?\n\n### Input:\nU+2814\n\n### Response:\n⠔ (dots: 35)"}
+{"text": "### Instruction:\nDraw the braille character with dots 35\n\n### Input:\ndots 35\n\n### Response:\n⠔"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2815?\n\n### Input:\nU+2815\n\n### Response:\n⠕ (dots: 135)"}
+{"text": "### Instruction:\nDraw the braille character with dots 135\n\n### Input:\ndots 135\n\n### Response:\n⠕"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2816?\n\n### Input:\nU+2816\n\n### Response:\n⠖ (dots: 235)"}
+{"text": "### Instruction:\nDraw the braille character with dots 235\n\n### Input:\ndots 235\n\n### Response:\n⠖"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2817?\n\n### Input:\nU+2817\n\n### Response:\n⠗ (dots: 1235)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1235\n\n### Input:\ndots 1235\n\n### Response:\n⠗"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2818?\n\n### Input:\nU+2818\n\n### Response:\n⠘ (dots: 45)"}
+{"text": "### Instruction:\nDraw the braille character with dots 45\n\n### Input:\ndots 45\n\n### Response:\n⠘"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2819?\n\n### Input:\nU+2819\n\n### Response:\n⠙ (dots: 145)"}
+{"text": "### Instruction:\nDraw the braille character with dots 145\n\n### Input:\ndots 145\n\n### Response:\n⠙"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+281A?\n\n### Input:\nU+281A\n\n### Response:\n⠚ (dots: 245)"}
+{"text": "### Instruction:\nDraw the braille character with dots 245\n\n### Input:\ndots 245\n\n### Response:\n⠚"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+281B?\n\n### Input:\nU+281B\n\n### Response:\n⠛ (dots: 1245)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1245\n\n### Input:\ndots 1245\n\n### Response:\n⠛"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+281C?\n\n### Input:\nU+281C\n\n### Response:\n⠜ (dots: 345)"}
+{"text": "### Instruction:\nDraw the braille character with dots 345\n\n### Input:\ndots 345\n\n### Response:\n⠜"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+281D?\n\n### Input:\nU+281D\n\n### Response:\n⠝ (dots: 1345)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1345\n\n### Input:\ndots 1345\n\n### Response:\n⠝"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+281E?\n\n### Input:\nU+281E\n\n### Response:\n⠞ (dots: 2345)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2345\n\n### Input:\ndots 2345\n\n### Response:\n⠞"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+281F?\n\n### Input:\nU+281F\n\n### Response:\n⠟ (dots: 12345)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12345\n\n### Input:\ndots 12345\n\n### Response:\n⠟"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2820?\n\n### Input:\nU+2820\n\n### Response:\n⠠ (dots: 6)"}
+{"text": "### Instruction:\nDraw the braille character with dots 6\n\n### Input:\ndots 6\n\n### Response:\n⠠"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2821?\n\n### Input:\nU+2821\n\n### Response:\n⠡ (dots: 16)"}
+{"text": "### Instruction:\nDraw the braille character with dots 16\n\n### Input:\ndots 16\n\n### Response:\n⠡"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2822?\n\n### Input:\nU+2822\n\n### Response:\n⠢ (dots: 26)"}
+{"text": "### Instruction:\nDraw the braille character with dots 26\n\n### Input:\ndots 26\n\n### Response:\n⠢"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2823?\n\n### Input:\nU+2823\n\n### Response:\n⠣ (dots: 126)"}
+{"text": "### Instruction:\nDraw the braille character with dots 126\n\n### Input:\ndots 126\n\n### Response:\n⠣"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2824?\n\n### Input:\nU+2824\n\n### Response:\n⠤ (dots: 36)"}
+{"text": "### Instruction:\nDraw the braille character with dots 36\n\n### Input:\ndots 36\n\n### Response:\n⠤"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2825?\n\n### Input:\nU+2825\n\n### Response:\n⠥ (dots: 136)"}
+{"text": "### Instruction:\nDraw the braille character with dots 136\n\n### Input:\ndots 136\n\n### Response:\n⠥"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2826?\n\n### Input:\nU+2826\n\n### Response:\n⠦ (dots: 236)"}
+{"text": "### Instruction:\nDraw the braille character with dots 236\n\n### Input:\ndots 236\n\n### Response:\n⠦"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2827?\n\n### Input:\nU+2827\n\n### Response:\n⠧ (dots: 1236)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1236\n\n### Input:\ndots 1236\n\n### Response:\n⠧"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2828?\n\n### Input:\nU+2828\n\n### Response:\n⠨ (dots: 46)"}
+{"text": "### Instruction:\nDraw the braille character with dots 46\n\n### Input:\ndots 46\n\n### Response:\n⠨"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2829?\n\n### Input:\nU+2829\n\n### Response:\n⠩ (dots: 146)"}
+{"text": "### Instruction:\nDraw the braille character with dots 146\n\n### Input:\ndots 146\n\n### Response:\n⠩"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+282A?\n\n### Input:\nU+282A\n\n### Response:\n⠪ (dots: 246)"}
+{"text": "### Instruction:\nDraw the braille character with dots 246\n\n### Input:\ndots 246\n\n### Response:\n⠪"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+282B?\n\n### Input:\nU+282B\n\n### Response:\n⠫ (dots: 1246)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1246\n\n### Input:\ndots 1246\n\n### Response:\n⠫"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+282C?\n\n### Input:\nU+282C\n\n### Response:\n⠬ (dots: 346)"}
+{"text": "### Instruction:\nDraw the braille character with dots 346\n\n### Input:\ndots 346\n\n### Response:\n⠬"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+282D?\n\n### Input:\nU+282D\n\n### Response:\n⠭ (dots: 1346)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1346\n\n### Input:\ndots 1346\n\n### Response:\n⠭"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+282E?\n\n### Input:\nU+282E\n\n### Response:\n⠮ (dots: 2346)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2346\n\n### Input:\ndots 2346\n\n### Response:\n⠮"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+282F?\n\n### Input:\nU+282F\n\n### Response:\n⠯ (dots: 12346)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12346\n\n### Input:\ndots 12346\n\n### Response:\n⠯"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2830?\n\n### Input:\nU+2830\n\n### Response:\n⠰ (dots: 56)"}
+{"text": "### Instruction:\nDraw the braille character with dots 56\n\n### Input:\ndots 56\n\n### Response:\n⠰"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2831?\n\n### Input:\nU+2831\n\n### Response:\n⠱ (dots: 156)"}
+{"text": "### Instruction:\nDraw the braille character with dots 156\n\n### Input:\ndots 156\n\n### Response:\n⠱"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2832?\n\n### Input:\nU+2832\n\n### Response:\n⠲ (dots: 256)"}
+{"text": "### Instruction:\nDraw the braille character with dots 256\n\n### Input:\ndots 256\n\n### Response:\n⠲"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2833?\n\n### Input:\nU+2833\n\n### Response:\n⠳ (dots: 1256)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1256\n\n### Input:\ndots 1256\n\n### Response:\n⠳"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2834?\n\n### Input:\nU+2834\n\n### Response:\n⠴ (dots: 356)"}
+{"text": "### Instruction:\nDraw the braille character with dots 356\n\n### Input:\ndots 356\n\n### Response:\n⠴"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2835?\n\n### Input:\nU+2835\n\n### Response:\n⠵ (dots: 1356)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1356\n\n### Input:\ndots 1356\n\n### Response:\n⠵"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2836?\n\n### Input:\nU+2836\n\n### Response:\n⠶ (dots: 2356)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2356\n\n### Input:\ndots 2356\n\n### Response:\n⠶"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2837?\n\n### Input:\nU+2837\n\n### Response:\n⠷ (dots: 12356)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12356\n\n### Input:\ndots 12356\n\n### Response:\n⠷"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2838?\n\n### Input:\nU+2838\n\n### Response:\n⠸ (dots: 456)"}
+{"text": "### Instruction:\nDraw the braille character with dots 456\n\n### Input:\ndots 456\n\n### Response:\n⠸"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2839?\n\n### Input:\nU+2839\n\n### Response:\n⠹ (dots: 1456)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1456\n\n### Input:\ndots 1456\n\n### Response:\n⠹"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+283A?\n\n### Input:\nU+283A\n\n### Response:\n⠺ (dots: 2456)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2456\n\n### Input:\ndots 2456\n\n### Response:\n⠺"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+283B?\n\n### Input:\nU+283B\n\n### Response:\n⠻ (dots: 12456)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12456\n\n### Input:\ndots 12456\n\n### Response:\n⠻"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+283C?\n\n### Input:\nU+283C\n\n### Response:\n⠼ (dots: 3456)"}
+{"text": "### Instruction:\nDraw the braille character with dots 3456\n\n### Input:\ndots 3456\n\n### Response:\n⠼"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+283D?\n\n### Input:\nU+283D\n\n### Response:\n⠽ (dots: 13456)"}
+{"text": "### Instruction:\nDraw the braille character with dots 13456\n\n### Input:\ndots 13456\n\n### Response:\n⠽"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+283E?\n\n### Input:\nU+283E\n\n### Response:\n⠾ (dots: 23456)"}
+{"text": "### Instruction:\nDraw the braille character with dots 23456\n\n### Input:\ndots 23456\n\n### Response:\n⠾"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+283F?\n\n### Input:\nU+283F\n\n### Response:\n⠿ (dots: 123456)"}
+{"text": "### Instruction:\nDraw the braille character with dots 123456\n\n### Input:\ndots 123456\n\n### Response:\n⠿"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2840?\n\n### Input:\nU+2840\n\n### Response:\n⡀ (dots: 7)"}
+{"text": "### Instruction:\nDraw the braille character with dots 7\n\n### Input:\ndots 7\n\n### Response:\n⡀"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2841?\n\n### Input:\nU+2841\n\n### Response:\n⡁ (dots: 17)"}
+{"text": "### Instruction:\nDraw the braille character with dots 17\n\n### Input:\ndots 17\n\n### Response:\n⡁"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2842?\n\n### Input:\nU+2842\n\n### Response:\n⡂ (dots: 27)"}
+{"text": "### Instruction:\nDraw the braille character with dots 27\n\n### Input:\ndots 27\n\n### Response:\n⡂"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2843?\n\n### Input:\nU+2843\n\n### Response:\n⡃ (dots: 127)"}
+{"text": "### Instruction:\nDraw the braille character with dots 127\n\n### Input:\ndots 127\n\n### Response:\n⡃"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2844?\n\n### Input:\nU+2844\n\n### Response:\n⡄ (dots: 37)"}
+{"text": "### Instruction:\nDraw the braille character with dots 37\n\n### Input:\ndots 37\n\n### Response:\n⡄"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2845?\n\n### Input:\nU+2845\n\n### Response:\n⡅ (dots: 137)"}
+{"text": "### Instruction:\nDraw the braille character with dots 137\n\n### Input:\ndots 137\n\n### Response:\n⡅"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2846?\n\n### Input:\nU+2846\n\n### Response:\n⡆ (dots: 237)"}
+{"text": "### Instruction:\nDraw the braille character with dots 237\n\n### Input:\ndots 237\n\n### Response:\n⡆"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2847?\n\n### Input:\nU+2847\n\n### Response:\n⡇ (dots: 1237)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1237\n\n### Input:\ndots 1237\n\n### Response:\n⡇"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2848?\n\n### Input:\nU+2848\n\n### Response:\n⡈ (dots: 47)"}
+{"text": "### Instruction:\nDraw the braille character with dots 47\n\n### Input:\ndots 47\n\n### Response:\n⡈"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2849?\n\n### Input:\nU+2849\n\n### Response:\n⡉ (dots: 147)"}
+{"text": "### Instruction:\nDraw the braille character with dots 147\n\n### Input:\ndots 147\n\n### Response:\n⡉"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+284A?\n\n### Input:\nU+284A\n\n### Response:\n⡊ (dots: 247)"}
+{"text": "### Instruction:\nDraw the braille character with dots 247\n\n### Input:\ndots 247\n\n### Response:\n⡊"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+284B?\n\n### Input:\nU+284B\n\n### Response:\n⡋ (dots: 1247)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1247\n\n### Input:\ndots 1247\n\n### Response:\n⡋"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+284C?\n\n### Input:\nU+284C\n\n### Response:\n⡌ (dots: 347)"}
+{"text": "### Instruction:\nDraw the braille character with dots 347\n\n### Input:\ndots 347\n\n### Response:\n⡌"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+284D?\n\n### Input:\nU+284D\n\n### Response:\n⡍ (dots: 1347)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1347\n\n### Input:\ndots 1347\n\n### Response:\n⡍"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+284E?\n\n### Input:\nU+284E\n\n### Response:\n⡎ (dots: 2347)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2347\n\n### Input:\ndots 2347\n\n### Response:\n⡎"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+284F?\n\n### Input:\nU+284F\n\n### Response:\n⡏ (dots: 12347)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12347\n\n### Input:\ndots 12347\n\n### Response:\n⡏"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2850?\n\n### Input:\nU+2850\n\n### Response:\n⡐ (dots: 57)"}
+{"text": "### Instruction:\nDraw the braille character with dots 57\n\n### Input:\ndots 57\n\n### Response:\n⡐"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2851?\n\n### Input:\nU+2851\n\n### Response:\n⡑ (dots: 157)"}
+{"text": "### Instruction:\nDraw the braille character with dots 157\n\n### Input:\ndots 157\n\n### Response:\n⡑"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2852?\n\n### Input:\nU+2852\n\n### Response:\n⡒ (dots: 257)"}
+{"text": "### Instruction:\nDraw the braille character with dots 257\n\n### Input:\ndots 257\n\n### Response:\n⡒"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2853?\n\n### Input:\nU+2853\n\n### Response:\n⡓ (dots: 1257)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1257\n\n### Input:\ndots 1257\n\n### Response:\n⡓"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2854?\n\n### Input:\nU+2854\n\n### Response:\n⡔ (dots: 357)"}
+{"text": "### Instruction:\nDraw the braille character with dots 357\n\n### Input:\ndots 357\n\n### Response:\n⡔"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2855?\n\n### Input:\nU+2855\n\n### Response:\n⡕ (dots: 1357)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1357\n\n### Input:\ndots 1357\n\n### Response:\n⡕"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2856?\n\n### Input:\nU+2856\n\n### Response:\n⡖ (dots: 2357)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2357\n\n### Input:\ndots 2357\n\n### Response:\n⡖"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2857?\n\n### Input:\nU+2857\n\n### Response:\n⡗ (dots: 12357)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12357\n\n### Input:\ndots 12357\n\n### Response:\n⡗"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2858?\n\n### Input:\nU+2858\n\n### Response:\n⡘ (dots: 457)"}
+{"text": "### Instruction:\nDraw the braille character with dots 457\n\n### Input:\ndots 457\n\n### Response:\n⡘"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2859?\n\n### Input:\nU+2859\n\n### Response:\n⡙ (dots: 1457)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1457\n\n### Input:\ndots 1457\n\n### Response:\n⡙"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+285A?\n\n### Input:\nU+285A\n\n### Response:\n⡚ (dots: 2457)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2457\n\n### Input:\ndots 2457\n\n### Response:\n⡚"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+285B?\n\n### Input:\nU+285B\n\n### Response:\n⡛ (dots: 12457)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12457\n\n### Input:\ndots 12457\n\n### Response:\n⡛"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+285C?\n\n### Input:\nU+285C\n\n### Response:\n⡜ (dots: 3457)"}
+{"text": "### Instruction:\nDraw the braille character with dots 3457\n\n### Input:\ndots 3457\n\n### Response:\n⡜"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+285D?\n\n### Input:\nU+285D\n\n### Response:\n⡝ (dots: 13457)"}
+{"text": "### Instruction:\nDraw the braille character with dots 13457\n\n### Input:\ndots 13457\n\n### Response:\n⡝"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+285E?\n\n### Input:\nU+285E\n\n### Response:\n⡞ (dots: 23457)"}
+{"text": "### Instruction:\nDraw the braille character with dots 23457\n\n### Input:\ndots 23457\n\n### Response:\n⡞"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+285F?\n\n### Input:\nU+285F\n\n### Response:\n⡟ (dots: 123457)"}
+{"text": "### Instruction:\nDraw the braille character with dots 123457\n\n### Input:\ndots 123457\n\n### Response:\n⡟"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2860?\n\n### Input:\nU+2860\n\n### Response:\n⡠ (dots: 67)"}
+{"text": "### Instruction:\nDraw the braille character with dots 67\n\n### Input:\ndots 67\n\n### Response:\n⡠"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2861?\n\n### Input:\nU+2861\n\n### Response:\n⡡ (dots: 167)"}
+{"text": "### Instruction:\nDraw the braille character with dots 167\n\n### Input:\ndots 167\n\n### Response:\n⡡"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2862?\n\n### Input:\nU+2862\n\n### Response:\n⡢ (dots: 267)"}
+{"text": "### Instruction:\nDraw the braille character with dots 267\n\n### Input:\ndots 267\n\n### Response:\n⡢"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2863?\n\n### Input:\nU+2863\n\n### Response:\n⡣ (dots: 1267)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1267\n\n### Input:\ndots 1267\n\n### Response:\n⡣"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2864?\n\n### Input:\nU+2864\n\n### Response:\n⡤ (dots: 367)"}
+{"text": "### Instruction:\nDraw the braille character with dots 367\n\n### Input:\ndots 367\n\n### Response:\n⡤"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2865?\n\n### Input:\nU+2865\n\n### Response:\n⡥ (dots: 1367)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1367\n\n### Input:\ndots 1367\n\n### Response:\n⡥"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2866?\n\n### Input:\nU+2866\n\n### Response:\n⡦ (dots: 2367)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2367\n\n### Input:\ndots 2367\n\n### Response:\n⡦"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2867?\n\n### Input:\nU+2867\n\n### Response:\n⡧ (dots: 12367)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12367\n\n### Input:\ndots 12367\n\n### Response:\n⡧"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2868?\n\n### Input:\nU+2868\n\n### Response:\n⡨ (dots: 467)"}
+{"text": "### Instruction:\nDraw the braille character with dots 467\n\n### Input:\ndots 467\n\n### Response:\n⡨"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2869?\n\n### Input:\nU+2869\n\n### Response:\n⡩ (dots: 1467)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1467\n\n### Input:\ndots 1467\n\n### Response:\n⡩"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+286A?\n\n### Input:\nU+286A\n\n### Response:\n⡪ (dots: 2467)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2467\n\n### Input:\ndots 2467\n\n### Response:\n⡪"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+286B?\n\n### Input:\nU+286B\n\n### Response:\n⡫ (dots: 12467)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12467\n\n### Input:\ndots 12467\n\n### Response:\n⡫"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+286C?\n\n### Input:\nU+286C\n\n### Response:\n⡬ (dots: 3467)"}
+{"text": "### Instruction:\nDraw the braille character with dots 3467\n\n### Input:\ndots 3467\n\n### Response:\n⡬"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+286D?\n\n### Input:\nU+286D\n\n### Response:\n⡭ (dots: 13467)"}
+{"text": "### Instruction:\nDraw the braille character with dots 13467\n\n### Input:\ndots 13467\n\n### Response:\n⡭"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+286E?\n\n### Input:\nU+286E\n\n### Response:\n⡮ (dots: 23467)"}
+{"text": "### Instruction:\nDraw the braille character with dots 23467\n\n### Input:\ndots 23467\n\n### Response:\n⡮"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+286F?\n\n### Input:\nU+286F\n\n### Response:\n⡯ (dots: 123467)"}
+{"text": "### Instruction:\nDraw the braille character with dots 123467\n\n### Input:\ndots 123467\n\n### Response:\n⡯"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2870?\n\n### Input:\nU+2870\n\n### Response:\n⡰ (dots: 567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 567\n\n### Input:\ndots 567\n\n### Response:\n⡰"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2871?\n\n### Input:\nU+2871\n\n### Response:\n⡱ (dots: 1567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1567\n\n### Input:\ndots 1567\n\n### Response:\n⡱"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2872?\n\n### Input:\nU+2872\n\n### Response:\n⡲ (dots: 2567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2567\n\n### Input:\ndots 2567\n\n### Response:\n⡲"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2873?\n\n### Input:\nU+2873\n\n### Response:\n⡳ (dots: 12567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12567\n\n### Input:\ndots 12567\n\n### Response:\n⡳"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2874?\n\n### Input:\nU+2874\n\n### Response:\n⡴ (dots: 3567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 3567\n\n### Input:\ndots 3567\n\n### Response:\n⡴"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2875?\n\n### Input:\nU+2875\n\n### Response:\n⡵ (dots: 13567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 13567\n\n### Input:\ndots 13567\n\n### Response:\n⡵"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2876?\n\n### Input:\nU+2876\n\n### Response:\n⡶ (dots: 23567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 23567\n\n### Input:\ndots 23567\n\n### Response:\n⡶"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2877?\n\n### Input:\nU+2877\n\n### Response:\n⡷ (dots: 123567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 123567\n\n### Input:\ndots 123567\n\n### Response:\n⡷"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2878?\n\n### Input:\nU+2878\n\n### Response:\n⡸ (dots: 4567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 4567\n\n### Input:\ndots 4567\n\n### Response:\n⡸"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2879?\n\n### Input:\nU+2879\n\n### Response:\n⡹ (dots: 14567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 14567\n\n### Input:\ndots 14567\n\n### Response:\n⡹"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+287A?\n\n### Input:\nU+287A\n\n### Response:\n⡺ (dots: 24567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 24567\n\n### Input:\ndots 24567\n\n### Response:\n⡺"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+287B?\n\n### Input:\nU+287B\n\n### Response:\n⡻ (dots: 124567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 124567\n\n### Input:\ndots 124567\n\n### Response:\n⡻"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+287C?\n\n### Input:\nU+287C\n\n### Response:\n⡼ (dots: 34567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 34567\n\n### Input:\ndots 34567\n\n### Response:\n⡼"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+287D?\n\n### Input:\nU+287D\n\n### Response:\n⡽ (dots: 134567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 134567\n\n### Input:\ndots 134567\n\n### Response:\n⡽"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+287E?\n\n### Input:\nU+287E\n\n### Response:\n⡾ (dots: 234567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 234567\n\n### Input:\ndots 234567\n\n### Response:\n⡾"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+287F?\n\n### Input:\nU+287F\n\n### Response:\n⡿ (dots: 1234567)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1234567\n\n### Input:\ndots 1234567\n\n### Response:\n⡿"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2880?\n\n### Input:\nU+2880\n\n### Response:\n⢀ (dots: 8)"}
+{"text": "### Instruction:\nDraw the braille character with dots 8\n\n### Input:\ndots 8\n\n### Response:\n⢀"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2881?\n\n### Input:\nU+2881\n\n### Response:\n⢁ (dots: 18)"}
+{"text": "### Instruction:\nDraw the braille character with dots 18\n\n### Input:\ndots 18\n\n### Response:\n⢁"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2882?\n\n### Input:\nU+2882\n\n### Response:\n⢂ (dots: 28)"}
+{"text": "### Instruction:\nDraw the braille character with dots 28\n\n### Input:\ndots 28\n\n### Response:\n⢂"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2883?\n\n### Input:\nU+2883\n\n### Response:\n⢃ (dots: 128)"}
+{"text": "### Instruction:\nDraw the braille character with dots 128\n\n### Input:\ndots 128\n\n### Response:\n⢃"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2884?\n\n### Input:\nU+2884\n\n### Response:\n⢄ (dots: 38)"}
+{"text": "### Instruction:\nDraw the braille character with dots 38\n\n### Input:\ndots 38\n\n### Response:\n⢄"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2885?\n\n### Input:\nU+2885\n\n### Response:\n⢅ (dots: 138)"}
+{"text": "### Instruction:\nDraw the braille character with dots 138\n\n### Input:\ndots 138\n\n### Response:\n⢅"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2886?\n\n### Input:\nU+2886\n\n### Response:\n⢆ (dots: 238)"}
+{"text": "### Instruction:\nDraw the braille character with dots 238\n\n### Input:\ndots 238\n\n### Response:\n⢆"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2887?\n\n### Input:\nU+2887\n\n### Response:\n⢇ (dots: 1238)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1238\n\n### Input:\ndots 1238\n\n### Response:\n⢇"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2888?\n\n### Input:\nU+2888\n\n### Response:\n⢈ (dots: 48)"}
+{"text": "### Instruction:\nDraw the braille character with dots 48\n\n### Input:\ndots 48\n\n### Response:\n⢈"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2889?\n\n### Input:\nU+2889\n\n### Response:\n⢉ (dots: 148)"}
+{"text": "### Instruction:\nDraw the braille character with dots 148\n\n### Input:\ndots 148\n\n### Response:\n⢉"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+288A?\n\n### Input:\nU+288A\n\n### Response:\n⢊ (dots: 248)"}
+{"text": "### Instruction:\nDraw the braille character with dots 248\n\n### Input:\ndots 248\n\n### Response:\n⢊"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+288B?\n\n### Input:\nU+288B\n\n### Response:\n⢋ (dots: 1248)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1248\n\n### Input:\ndots 1248\n\n### Response:\n⢋"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+288C?\n\n### Input:\nU+288C\n\n### Response:\n⢌ (dots: 348)"}
+{"text": "### Instruction:\nDraw the braille character with dots 348\n\n### Input:\ndots 348\n\n### Response:\n⢌"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+288D?\n\n### Input:\nU+288D\n\n### Response:\n⢍ (dots: 1348)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1348\n\n### Input:\ndots 1348\n\n### Response:\n⢍"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+288E?\n\n### Input:\nU+288E\n\n### Response:\n⢎ (dots: 2348)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2348\n\n### Input:\ndots 2348\n\n### Response:\n⢎"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+288F?\n\n### Input:\nU+288F\n\n### Response:\n⢏ (dots: 12348)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12348\n\n### Input:\ndots 12348\n\n### Response:\n⢏"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2890?\n\n### Input:\nU+2890\n\n### Response:\n⢐ (dots: 58)"}
+{"text": "### Instruction:\nDraw the braille character with dots 58\n\n### Input:\ndots 58\n\n### Response:\n⢐"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2891?\n\n### Input:\nU+2891\n\n### Response:\n⢑ (dots: 158)"}
+{"text": "### Instruction:\nDraw the braille character with dots 158\n\n### Input:\ndots 158\n\n### Response:\n⢑"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2892?\n\n### Input:\nU+2892\n\n### Response:\n⢒ (dots: 258)"}
+{"text": "### Instruction:\nDraw the braille character with dots 258\n\n### Input:\ndots 258\n\n### Response:\n⢒"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2893?\n\n### Input:\nU+2893\n\n### Response:\n⢓ (dots: 1258)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1258\n\n### Input:\ndots 1258\n\n### Response:\n⢓"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2894?\n\n### Input:\nU+2894\n\n### Response:\n⢔ (dots: 358)"}
+{"text": "### Instruction:\nDraw the braille character with dots 358\n\n### Input:\ndots 358\n\n### Response:\n⢔"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2895?\n\n### Input:\nU+2895\n\n### Response:\n⢕ (dots: 1358)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1358\n\n### Input:\ndots 1358\n\n### Response:\n⢕"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2896?\n\n### Input:\nU+2896\n\n### Response:\n⢖ (dots: 2358)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2358\n\n### Input:\ndots 2358\n\n### Response:\n⢖"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2897?\n\n### Input:\nU+2897\n\n### Response:\n⢗ (dots: 12358)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12358\n\n### Input:\ndots 12358\n\n### Response:\n⢗"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2898?\n\n### Input:\nU+2898\n\n### Response:\n⢘ (dots: 458)"}
+{"text": "### Instruction:\nDraw the braille character with dots 458\n\n### Input:\ndots 458\n\n### Response:\n⢘"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+2899?\n\n### Input:\nU+2899\n\n### Response:\n⢙ (dots: 1458)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1458\n\n### Input:\ndots 1458\n\n### Response:\n⢙"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+289A?\n\n### Input:\nU+289A\n\n### Response:\n⢚ (dots: 2458)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2458\n\n### Input:\ndots 2458\n\n### Response:\n⢚"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+289B?\n\n### Input:\nU+289B\n\n### Response:\n⢛ (dots: 12458)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12458\n\n### Input:\ndots 12458\n\n### Response:\n⢛"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+289C?\n\n### Input:\nU+289C\n\n### Response:\n⢜ (dots: 3458)"}
+{"text": "### Instruction:\nDraw the braille character with dots 3458\n\n### Input:\ndots 3458\n\n### Response:\n⢜"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+289D?\n\n### Input:\nU+289D\n\n### Response:\n⢝ (dots: 13458)"}
+{"text": "### Instruction:\nDraw the braille character with dots 13458\n\n### Input:\ndots 13458\n\n### Response:\n⢝"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+289E?\n\n### Input:\nU+289E\n\n### Response:\n⢞ (dots: 23458)"}
+{"text": "### Instruction:\nDraw the braille character with dots 23458\n\n### Input:\ndots 23458\n\n### Response:\n⢞"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+289F?\n\n### Input:\nU+289F\n\n### Response:\n⢟ (dots: 123458)"}
+{"text": "### Instruction:\nDraw the braille character with dots 123458\n\n### Input:\ndots 123458\n\n### Response:\n⢟"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28A0?\n\n### Input:\nU+28A0\n\n### Response:\n⢠ (dots: 68)"}
+{"text": "### Instruction:\nDraw the braille character with dots 68\n\n### Input:\ndots 68\n\n### Response:\n⢠"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28A1?\n\n### Input:\nU+28A1\n\n### Response:\n⢡ (dots: 168)"}
+{"text": "### Instruction:\nDraw the braille character with dots 168\n\n### Input:\ndots 168\n\n### Response:\n⢡"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28A2?\n\n### Input:\nU+28A2\n\n### Response:\n⢢ (dots: 268)"}
+{"text": "### Instruction:\nDraw the braille character with dots 268\n\n### Input:\ndots 268\n\n### Response:\n⢢"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28A3?\n\n### Input:\nU+28A3\n\n### Response:\n⢣ (dots: 1268)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1268\n\n### Input:\ndots 1268\n\n### Response:\n⢣"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28A4?\n\n### Input:\nU+28A4\n\n### Response:\n⢤ (dots: 368)"}
+{"text": "### Instruction:\nDraw the braille character with dots 368\n\n### Input:\ndots 368\n\n### Response:\n⢤"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28A5?\n\n### Input:\nU+28A5\n\n### Response:\n⢥ (dots: 1368)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1368\n\n### Input:\ndots 1368\n\n### Response:\n⢥"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28A6?\n\n### Input:\nU+28A6\n\n### Response:\n⢦ (dots: 2368)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2368\n\n### Input:\ndots 2368\n\n### Response:\n⢦"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28A7?\n\n### Input:\nU+28A7\n\n### Response:\n⢧ (dots: 12368)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12368\n\n### Input:\ndots 12368\n\n### Response:\n⢧"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28A8?\n\n### Input:\nU+28A8\n\n### Response:\n⢨ (dots: 468)"}
+{"text": "### Instruction:\nDraw the braille character with dots 468\n\n### Input:\ndots 468\n\n### Response:\n⢨"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28A9?\n\n### Input:\nU+28A9\n\n### Response:\n⢩ (dots: 1468)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1468\n\n### Input:\ndots 1468\n\n### Response:\n⢩"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28AA?\n\n### Input:\nU+28AA\n\n### Response:\n⢪ (dots: 2468)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2468\n\n### Input:\ndots 2468\n\n### Response:\n⢪"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28AB?\n\n### Input:\nU+28AB\n\n### Response:\n⢫ (dots: 12468)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12468\n\n### Input:\ndots 12468\n\n### Response:\n⢫"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28AC?\n\n### Input:\nU+28AC\n\n### Response:\n⢬ (dots: 3468)"}
+{"text": "### Instruction:\nDraw the braille character with dots 3468\n\n### Input:\ndots 3468\n\n### Response:\n⢬"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28AD?\n\n### Input:\nU+28AD\n\n### Response:\n⢭ (dots: 13468)"}
+{"text": "### Instruction:\nDraw the braille character with dots 13468\n\n### Input:\ndots 13468\n\n### Response:\n⢭"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28AE?\n\n### Input:\nU+28AE\n\n### Response:\n⢮ (dots: 23468)"}
+{"text": "### Instruction:\nDraw the braille character with dots 23468\n\n### Input:\ndots 23468\n\n### Response:\n⢮"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28AF?\n\n### Input:\nU+28AF\n\n### Response:\n⢯ (dots: 123468)"}
+{"text": "### Instruction:\nDraw the braille character with dots 123468\n\n### Input:\ndots 123468\n\n### Response:\n⢯"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28B0?\n\n### Input:\nU+28B0\n\n### Response:\n⢰ (dots: 568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 568\n\n### Input:\ndots 568\n\n### Response:\n⢰"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28B1?\n\n### Input:\nU+28B1\n\n### Response:\n⢱ (dots: 1568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1568\n\n### Input:\ndots 1568\n\n### Response:\n⢱"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28B2?\n\n### Input:\nU+28B2\n\n### Response:\n⢲ (dots: 2568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2568\n\n### Input:\ndots 2568\n\n### Response:\n⢲"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28B3?\n\n### Input:\nU+28B3\n\n### Response:\n⢳ (dots: 12568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12568\n\n### Input:\ndots 12568\n\n### Response:\n⢳"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28B4?\n\n### Input:\nU+28B4\n\n### Response:\n⢴ (dots: 3568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 3568\n\n### Input:\ndots 3568\n\n### Response:\n⢴"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28B5?\n\n### Input:\nU+28B5\n\n### Response:\n⢵ (dots: 13568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 13568\n\n### Input:\ndots 13568\n\n### Response:\n⢵"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28B6?\n\n### Input:\nU+28B6\n\n### Response:\n⢶ (dots: 23568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 23568\n\n### Input:\ndots 23568\n\n### Response:\n⢶"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28B7?\n\n### Input:\nU+28B7\n\n### Response:\n⢷ (dots: 123568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 123568\n\n### Input:\ndots 123568\n\n### Response:\n⢷"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28B8?\n\n### Input:\nU+28B8\n\n### Response:\n⢸ (dots: 4568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 4568\n\n### Input:\ndots 4568\n\n### Response:\n⢸"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28B9?\n\n### Input:\nU+28B9\n\n### Response:\n⢹ (dots: 14568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 14568\n\n### Input:\ndots 14568\n\n### Response:\n⢹"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28BA?\n\n### Input:\nU+28BA\n\n### Response:\n⢺ (dots: 24568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 24568\n\n### Input:\ndots 24568\n\n### Response:\n⢺"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28BB?\n\n### Input:\nU+28BB\n\n### Response:\n⢻ (dots: 124568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 124568\n\n### Input:\ndots 124568\n\n### Response:\n⢻"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28BC?\n\n### Input:\nU+28BC\n\n### Response:\n⢼ (dots: 34568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 34568\n\n### Input:\ndots 34568\n\n### Response:\n⢼"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28BD?\n\n### Input:\nU+28BD\n\n### Response:\n⢽ (dots: 134568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 134568\n\n### Input:\ndots 134568\n\n### Response:\n⢽"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28BE?\n\n### Input:\nU+28BE\n\n### Response:\n⢾ (dots: 234568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 234568\n\n### Input:\ndots 234568\n\n### Response:\n⢾"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28BF?\n\n### Input:\nU+28BF\n\n### Response:\n⢿ (dots: 1234568)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1234568\n\n### Input:\ndots 1234568\n\n### Response:\n⢿"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28C0?\n\n### Input:\nU+28C0\n\n### Response:\n⣀ (dots: 78)"}
+{"text": "### Instruction:\nDraw the braille character with dots 78\n\n### Input:\ndots 78\n\n### Response:\n⣀"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28C1?\n\n### Input:\nU+28C1\n\n### Response:\n⣁ (dots: 178)"}
+{"text": "### Instruction:\nDraw the braille character with dots 178\n\n### Input:\ndots 178\n\n### Response:\n⣁"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28C2?\n\n### Input:\nU+28C2\n\n### Response:\n⣂ (dots: 278)"}
+{"text": "### Instruction:\nDraw the braille character with dots 278\n\n### Input:\ndots 278\n\n### Response:\n⣂"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28C3?\n\n### Input:\nU+28C3\n\n### Response:\n⣃ (dots: 1278)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1278\n\n### Input:\ndots 1278\n\n### Response:\n⣃"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28C4?\n\n### Input:\nU+28C4\n\n### Response:\n⣄ (dots: 378)"}
+{"text": "### Instruction:\nDraw the braille character with dots 378\n\n### Input:\ndots 378\n\n### Response:\n⣄"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28C5?\n\n### Input:\nU+28C5\n\n### Response:\n⣅ (dots: 1378)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1378\n\n### Input:\ndots 1378\n\n### Response:\n⣅"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28C6?\n\n### Input:\nU+28C6\n\n### Response:\n⣆ (dots: 2378)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2378\n\n### Input:\ndots 2378\n\n### Response:\n⣆"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28C7?\n\n### Input:\nU+28C7\n\n### Response:\n⣇ (dots: 12378)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12378\n\n### Input:\ndots 12378\n\n### Response:\n⣇"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28C8?\n\n### Input:\nU+28C8\n\n### Response:\n⣈ (dots: 478)"}
+{"text": "### Instruction:\nDraw the braille character with dots 478\n\n### Input:\ndots 478\n\n### Response:\n⣈"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28C9?\n\n### Input:\nU+28C9\n\n### Response:\n⣉ (dots: 1478)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1478\n\n### Input:\ndots 1478\n\n### Response:\n⣉"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28CA?\n\n### Input:\nU+28CA\n\n### Response:\n⣊ (dots: 2478)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2478\n\n### Input:\ndots 2478\n\n### Response:\n⣊"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28CB?\n\n### Input:\nU+28CB\n\n### Response:\n⣋ (dots: 12478)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12478\n\n### Input:\ndots 12478\n\n### Response:\n⣋"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28CC?\n\n### Input:\nU+28CC\n\n### Response:\n⣌ (dots: 3478)"}
+{"text": "### Instruction:\nDraw the braille character with dots 3478\n\n### Input:\ndots 3478\n\n### Response:\n⣌"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28CD?\n\n### Input:\nU+28CD\n\n### Response:\n⣍ (dots: 13478)"}
+{"text": "### Instruction:\nDraw the braille character with dots 13478\n\n### Input:\ndots 13478\n\n### Response:\n⣍"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28CE?\n\n### Input:\nU+28CE\n\n### Response:\n⣎ (dots: 23478)"}
+{"text": "### Instruction:\nDraw the braille character with dots 23478\n\n### Input:\ndots 23478\n\n### Response:\n⣎"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28CF?\n\n### Input:\nU+28CF\n\n### Response:\n⣏ (dots: 123478)"}
+{"text": "### Instruction:\nDraw the braille character with dots 123478\n\n### Input:\ndots 123478\n\n### Response:\n⣏"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28D0?\n\n### Input:\nU+28D0\n\n### Response:\n⣐ (dots: 578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 578\n\n### Input:\ndots 578\n\n### Response:\n⣐"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28D1?\n\n### Input:\nU+28D1\n\n### Response:\n⣑ (dots: 1578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1578\n\n### Input:\ndots 1578\n\n### Response:\n⣑"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28D2?\n\n### Input:\nU+28D2\n\n### Response:\n⣒ (dots: 2578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2578\n\n### Input:\ndots 2578\n\n### Response:\n⣒"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28D3?\n\n### Input:\nU+28D3\n\n### Response:\n⣓ (dots: 12578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12578\n\n### Input:\ndots 12578\n\n### Response:\n⣓"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28D4?\n\n### Input:\nU+28D4\n\n### Response:\n⣔ (dots: 3578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 3578\n\n### Input:\ndots 3578\n\n### Response:\n⣔"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28D5?\n\n### Input:\nU+28D5\n\n### Response:\n⣕ (dots: 13578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 13578\n\n### Input:\ndots 13578\n\n### Response:\n⣕"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28D6?\n\n### Input:\nU+28D6\n\n### Response:\n⣖ (dots: 23578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 23578\n\n### Input:\ndots 23578\n\n### Response:\n⣖"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28D7?\n\n### Input:\nU+28D7\n\n### Response:\n⣗ (dots: 123578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 123578\n\n### Input:\ndots 123578\n\n### Response:\n⣗"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28D8?\n\n### Input:\nU+28D8\n\n### Response:\n⣘ (dots: 4578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 4578\n\n### Input:\ndots 4578\n\n### Response:\n⣘"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28D9?\n\n### Input:\nU+28D9\n\n### Response:\n⣙ (dots: 14578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 14578\n\n### Input:\ndots 14578\n\n### Response:\n⣙"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28DA?\n\n### Input:\nU+28DA\n\n### Response:\n⣚ (dots: 24578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 24578\n\n### Input:\ndots 24578\n\n### Response:\n⣚"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28DB?\n\n### Input:\nU+28DB\n\n### Response:\n⣛ (dots: 124578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 124578\n\n### Input:\ndots 124578\n\n### Response:\n⣛"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28DC?\n\n### Input:\nU+28DC\n\n### Response:\n⣜ (dots: 34578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 34578\n\n### Input:\ndots 34578\n\n### Response:\n⣜"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28DD?\n\n### Input:\nU+28DD\n\n### Response:\n⣝ (dots: 134578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 134578\n\n### Input:\ndots 134578\n\n### Response:\n⣝"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28DE?\n\n### Input:\nU+28DE\n\n### Response:\n⣞ (dots: 234578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 234578\n\n### Input:\ndots 234578\n\n### Response:\n⣞"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28DF?\n\n### Input:\nU+28DF\n\n### Response:\n⣟ (dots: 1234578)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1234578\n\n### Input:\ndots 1234578\n\n### Response:\n⣟"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28E0?\n\n### Input:\nU+28E0\n\n### Response:\n⣠ (dots: 678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 678\n\n### Input:\ndots 678\n\n### Response:\n⣠"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28E1?\n\n### Input:\nU+28E1\n\n### Response:\n⣡ (dots: 1678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1678\n\n### Input:\ndots 1678\n\n### Response:\n⣡"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28E2?\n\n### Input:\nU+28E2\n\n### Response:\n⣢ (dots: 2678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2678\n\n### Input:\ndots 2678\n\n### Response:\n⣢"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28E3?\n\n### Input:\nU+28E3\n\n### Response:\n⣣ (dots: 12678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12678\n\n### Input:\ndots 12678\n\n### Response:\n⣣"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28E4?\n\n### Input:\nU+28E4\n\n### Response:\n⣤ (dots: 3678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 3678\n\n### Input:\ndots 3678\n\n### Response:\n⣤"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28E5?\n\n### Input:\nU+28E5\n\n### Response:\n⣥ (dots: 13678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 13678\n\n### Input:\ndots 13678\n\n### Response:\n⣥"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28E6?\n\n### Input:\nU+28E6\n\n### Response:\n⣦ (dots: 23678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 23678\n\n### Input:\ndots 23678\n\n### Response:\n⣦"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28E7?\n\n### Input:\nU+28E7\n\n### Response:\n⣧ (dots: 123678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 123678\n\n### Input:\ndots 123678\n\n### Response:\n⣧"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28E8?\n\n### Input:\nU+28E8\n\n### Response:\n⣨ (dots: 4678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 4678\n\n### Input:\ndots 4678\n\n### Response:\n⣨"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28E9?\n\n### Input:\nU+28E9\n\n### Response:\n⣩ (dots: 14678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 14678\n\n### Input:\ndots 14678\n\n### Response:\n⣩"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28EA?\n\n### Input:\nU+28EA\n\n### Response:\n⣪ (dots: 24678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 24678\n\n### Input:\ndots 24678\n\n### Response:\n⣪"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28EB?\n\n### Input:\nU+28EB\n\n### Response:\n⣫ (dots: 124678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 124678\n\n### Input:\ndots 124678\n\n### Response:\n⣫"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28EC?\n\n### Input:\nU+28EC\n\n### Response:\n⣬ (dots: 34678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 34678\n\n### Input:\ndots 34678\n\n### Response:\n⣬"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28ED?\n\n### Input:\nU+28ED\n\n### Response:\n⣭ (dots: 134678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 134678\n\n### Input:\ndots 134678\n\n### Response:\n⣭"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28EE?\n\n### Input:\nU+28EE\n\n### Response:\n⣮ (dots: 234678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 234678\n\n### Input:\ndots 234678\n\n### Response:\n⣮"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28EF?\n\n### Input:\nU+28EF\n\n### Response:\n⣯ (dots: 1234678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1234678\n\n### Input:\ndots 1234678\n\n### Response:\n⣯"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28F0?\n\n### Input:\nU+28F0\n\n### Response:\n⣰ (dots: 5678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 5678\n\n### Input:\ndots 5678\n\n### Response:\n⣰"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28F1?\n\n### Input:\nU+28F1\n\n### Response:\n⣱ (dots: 15678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 15678\n\n### Input:\ndots 15678\n\n### Response:\n⣱"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28F2?\n\n### Input:\nU+28F2\n\n### Response:\n⣲ (dots: 25678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 25678\n\n### Input:\ndots 25678\n\n### Response:\n⣲"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28F3?\n\n### Input:\nU+28F3\n\n### Response:\n⣳ (dots: 125678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 125678\n\n### Input:\ndots 125678\n\n### Response:\n⣳"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28F4?\n\n### Input:\nU+28F4\n\n### Response:\n⣴ (dots: 35678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 35678\n\n### Input:\ndots 35678\n\n### Response:\n⣴"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28F5?\n\n### Input:\nU+28F5\n\n### Response:\n⣵ (dots: 135678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 135678\n\n### Input:\ndots 135678\n\n### Response:\n⣵"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28F6?\n\n### Input:\nU+28F6\n\n### Response:\n⣶ (dots: 235678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 235678\n\n### Input:\ndots 235678\n\n### Response:\n⣶"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28F7?\n\n### Input:\nU+28F7\n\n### Response:\n⣷ (dots: 1235678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1235678\n\n### Input:\ndots 1235678\n\n### Response:\n⣷"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28F8?\n\n### Input:\nU+28F8\n\n### Response:\n⣸ (dots: 45678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 45678\n\n### Input:\ndots 45678\n\n### Response:\n⣸"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28F9?\n\n### Input:\nU+28F9\n\n### Response:\n⣹ (dots: 145678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 145678\n\n### Input:\ndots 145678\n\n### Response:\n⣹"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28FA?\n\n### Input:\nU+28FA\n\n### Response:\n⣺ (dots: 245678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 245678\n\n### Input:\ndots 245678\n\n### Response:\n⣺"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28FB?\n\n### Input:\nU+28FB\n\n### Response:\n⣻ (dots: 1245678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1245678\n\n### Input:\ndots 1245678\n\n### Response:\n⣻"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28FC?\n\n### Input:\nU+28FC\n\n### Response:\n⣼ (dots: 345678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 345678\n\n### Input:\ndots 345678\n\n### Response:\n⣼"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28FD?\n\n### Input:\nU+28FD\n\n### Response:\n⣽ (dots: 1345678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 1345678\n\n### Input:\ndots 1345678\n\n### Response:\n⣽"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28FE?\n\n### Input:\nU+28FE\n\n### Response:\n⣾ (dots: 2345678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 2345678\n\n### Input:\ndots 2345678\n\n### Response:\n⣾"}
+{"text": "### Instruction:\nWhat is the Unicode braille character at U+28FF?\n\n### Input:\nU+28FF\n\n### Response:\n⣿ (dots: 12345678)"}
+{"text": "### Instruction:\nDraw the braille character with dots 12345678\n\n### Input:\ndots 12345678\n\n### Response:\n⣿"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: def\n\n### Input:\ndef\n\n### Response:\n⠙⠑⠋"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠙⠑⠋\n\n### Input:\n⠙⠑⠋\n\n### Response:\ndef"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: class\n\n### Input:\nclass\n\n### Response:\n⠉⠇⠁⠎⠎"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠉⠇⠁⠎⠎\n\n### Input:\n⠉⠇⠁⠎⠎\n\n### Response:\nclass"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: if\n\n### Input:\nif\n\n### Response:\n⠊⠋"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠊⠋\n\n### Input:\n⠊⠋\n\n### Response:\nif"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: else\n\n### Input:\nelse\n\n### Response:\n⠑⠇⠎⠑"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠑⠇⠎⠑\n\n### Input:\n⠑⠇⠎⠑\n\n### Response:\nelse"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: elif\n\n### Input:\nelif\n\n### Response:\n⠑⠇⠊⠋"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠑⠇⠊⠋\n\n### Input:\n⠑⠇⠊⠋\n\n### Response:\nelif"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: for\n\n### Input:\nfor\n\n### Response:\n⠋⠕⠗"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠋⠕⠗\n\n### Input:\n⠋⠕⠗\n\n### Response:\nfor"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: while\n\n### Input:\nwhile\n\n### Response:\n⠺⠓⠊⠇⠑"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠺⠓⠊⠇⠑\n\n### Input:\n⠺⠓⠊⠇⠑\n\n### Response:\nwhile"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: try\n\n### Input:\ntry\n\n### Response:\n⠞⠗⠽"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠞⠗⠽\n\n### Input:\n⠞⠗⠽\n\n### Response:\ntry"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: except\n\n### Input:\nexcept\n\n### Response:\n⠑⠭⠉⠑⠏⠞"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠑⠭⠉⠑⠏⠞\n\n### Input:\n⠑⠭⠉⠑⠏⠞\n\n### Response:\nexcept"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: finally\n\n### Input:\nfinally\n\n### Response:\n⠋⠊⠝⠁⠇⠇⠽"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠋⠊⠝⠁⠇⠇⠽\n\n### Input:\n⠋⠊⠝⠁⠇⠇⠽\n\n### Response:\nfinally"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: with\n\n### Input:\nwith\n\n### Response:\n⠺⠊⠞⠓"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠺⠊⠞⠓\n\n### Input:\n⠺⠊⠞⠓\n\n### Response:\nwith"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: as\n\n### Input:\nas\n\n### Response:\n⠁⠎"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠁⠎\n\n### Input:\n⠁⠎\n\n### Response:\nas"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: import\n\n### Input:\nimport\n\n### Response:\n⠊⠍⠏⠕⠗⠞"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠊⠍⠏⠕⠗⠞\n\n### Input:\n⠊⠍⠏⠕⠗⠞\n\n### Response:\nimport"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: from\n\n### Input:\nfrom\n\n### Response:\n⠋⠗⠕⠍"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠋⠗⠕⠍\n\n### Input:\n⠋⠗⠕⠍\n\n### Response:\nfrom"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: return\n\n### Input:\nreturn\n\n### Response:\n⠗⠑⠞⠥⠗⠝"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠗⠑⠞⠥⠗⠝\n\n### Input:\n⠗⠑⠞⠥⠗⠝\n\n### Response:\nreturn"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: yield\n\n### Input:\nyield\n\n### Response:\n⠽⠊⠑⠇⠙"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠽⠊⠑⠇⠙\n\n### Input:\n⠽⠊⠑⠇⠙\n\n### Response:\nyield"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: raise\n\n### Input:\nraise\n\n### Response:\n⠗⠁⠊⠎⠑"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠗⠁⠊⠎⠑\n\n### Input:\n⠗⠁⠊⠎⠑\n\n### Response:\nraise"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: pass\n\n### Input:\npass\n\n### Response:\n⠏⠁⠎⠎"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠏⠁⠎⠎\n\n### Input:\n⠏⠁⠎⠎\n\n### Response:\npass"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: break\n\n### Input:\nbreak\n\n### Response:\n⠃⠗⠑⠁⠅"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠃⠗⠑⠁⠅\n\n### Input:\n⠃⠗⠑⠁⠅\n\n### Response:\nbreak"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: continue\n\n### Input:\ncontinue\n\n### Response:\n⠉⠕⠝⠞⠊⠝⠥⠑"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠉⠕⠝⠞⠊⠝⠥⠑\n\n### Input:\n⠉⠕⠝⠞⠊⠝⠥⠑\n\n### Response:\ncontinue"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: and\n\n### Input:\nand\n\n### Response:\n⠁⠝⠙"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠁⠝⠙\n\n### Input:\n⠁⠝⠙\n\n### Response:\nand"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: or\n\n### Input:\nor\n\n### Response:\n⠕⠗"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠕⠗\n\n### Input:\n⠕⠗\n\n### Response:\nor"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: not\n\n### Input:\nnot\n\n### Response:\n⠝⠕⠞"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠝⠕⠞\n\n### Input:\n⠝⠕⠞\n\n### Response:\nnot"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: in\n\n### Input:\nin\n\n### Response:\n⠊⠝"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠊⠝\n\n### Input:\n⠊⠝\n\n### Response:\nin"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: is\n\n### Input:\nis\n\n### Response:\n⠊⠎"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠊⠎\n\n### Input:\n⠊⠎\n\n### Response:\nis"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: None\n\n### Input:\nNone\n\n### Response:\n⡝⠕⠝⠑"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⡝⠕⠝⠑\n\n### Input:\n⡝⠕⠝⠑\n\n### Response:\nNone"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: True\n\n### Input:\nTrue\n\n### Response:\n⡞⠗⠥⠑"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⡞⠗⠥⠑\n\n### Input:\n⡞⠗⠥⠑\n\n### Response:\nTrue"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: False\n\n### Input:\nFalse\n\n### Response:\n⡋⠁⠇⠎⠑"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⡋⠁⠇⠎⠑\n\n### Input:\n⡋⠁⠇⠎⠑\n\n### Response:\nFalse"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: lambda\n\n### Input:\nlambda\n\n### Response:\n⠇⠁⠍⠃⠙⠁"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠇⠁⠍⠃⠙⠁\n\n### Input:\n⠇⠁⠍⠃⠙⠁\n\n### Response:\nlambda"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: global\n\n### Input:\nglobal\n\n### Response:\n⠛⠇⠕⠃⠁⠇"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠛⠇⠕⠃⠁⠇\n\n### Input:\n⠛⠇⠕⠃⠁⠇\n\n### Response:\nglobal"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: nonlocal\n\n### Input:\nnonlocal\n\n### Response:\n⠝⠕⠝⠇⠕⠉⠁⠇"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠝⠕⠝⠇⠕⠉⠁⠇\n\n### Input:\n⠝⠕⠝⠇⠕⠉⠁⠇\n\n### Response:\nnonlocal"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: assert\n\n### Input:\nassert\n\n### Response:\n⠁⠎⠎⠑⠗⠞"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠁⠎⠎⠑⠗⠞\n\n### Input:\n⠁⠎⠎⠑⠗⠞\n\n### Response:\nassert"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: async\n\n### Input:\nasync\n\n### Response:\n⠁⠎⠽⠝⠉"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠁⠎⠽⠝⠉\n\n### Input:\n⠁⠎⠽⠝⠉\n\n### Response:\nasync"}
+{"text": "### Instruction:\nConvert this Python keyword to 8-dot braille: await\n\n### Input:\nawait\n\n### Response:\n⠁⠺⠁⠊⠞"}
+{"text": "### Instruction:\nWhat Python keyword is this braille: ⠁⠺⠁⠊⠞\n\n### Input:\n⠁⠺⠁⠊⠞\n\n### Response:\nawait"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\ndef function_name(arg):\n\n### Response:\n⠙⠑⠋⠀⠋⠥⠝⠉⠞⠊⠕⠝⠸⠝⠁⠍⠑⠶⠁⠗⠛⠶⠒"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠙⠑⠋⠀⠋⠥⠝⠉⠞⠊⠕⠝⠸⠝⠁⠍⠑⠶⠁⠗⠛⠶⠒\n\n### Response:\ndef function_name(arg):"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nclass ClassName:\n\n### Response:\n⠉⠇⠁⠎⠎⠀⡉⠇⠁⠎⠎⡝⠁⠍⠑⠒"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠉⠇⠁⠎⠎⠀⡉⠇⠁⠎⠎⡝⠁⠍⠑⠒\n\n### Response:\nclass ClassName:"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nif condition:\n\n### Response:\n⠊⠋⠀⠉⠕⠝⠙⠊⠞⠊⠕⠝⠒"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠊⠋⠀⠉⠕⠝⠙⠊⠞⠊⠕⠝⠒\n\n### Response:\nif condition:"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nfor item in items:\n\n### Response:\n⠋⠕⠗⠀⠊⠞⠑⠍⠀⠊⠝⠀⠊⠞⠑⠍⠎⠒"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠋⠕⠗⠀⠊⠞⠑⠍⠀⠊⠝⠀⠊⠞⠑⠍⠎⠒\n\n### Response:\nfor item in items:"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nwhile True:\n\n### Response:\n⠺⠓⠊⠇⠑⠀⡞⠗⠥⠑⠒"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠺⠓⠊⠇⠑⠀⡞⠗⠥⠑⠒\n\n### Response:\nwhile True:"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\ntry:\n\n### Response:\n⠞⠗⠽⠒"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠞⠗⠽⠒\n\n### Response:\ntry:"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nexcept Exception as e:\n\n### Response:\n⠑⠭⠉⠑⠏⠞⠀⡑⠭⠉⠑⠏⠞⠊⠕⠝⠀⠁⠎⠀⠑⠒"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠑⠭⠉⠑⠏⠞⠀⡑⠭⠉⠑⠏⠞⠊⠕⠝⠀⠁⠎⠀⠑⠒\n\n### Response:\nexcept Exception as e:"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nreturn value\n\n### Response:\n⠗⠑⠞⠥⠗⠝⠀⠧⠁⠇⠥⠑"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠗⠑⠞⠥⠗⠝⠀⠧⠁⠇⠥⠑\n\n### Response:\nreturn value"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nimport module\n\n### Response:\n⠊⠍⠏⠕⠗⠞⠀⠍⠕⠙⠥⠇⠑"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠊⠍⠏⠕⠗⠞⠀⠍⠕⠙⠥⠇⠑\n\n### Response:\nimport module"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nfrom module import function\n\n### Response:\n⠋⠗⠕⠍⠀⠍⠕⠙⠥⠇⠑⠀⠊⠍⠏⠕⠗⠞⠀⠋⠥⠝⠉⠞⠊⠕⠝"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠋⠗⠕⠍⠀⠍⠕⠙⠥⠇⠑⠀⠊⠍⠏⠕⠗⠞⠀⠋⠥⠝⠉⠞⠊⠕⠝\n\n### Response:\nfrom module import function"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nself.attribute = value\n\n### Response:\n⠎⠑⠇⠋⠲⠁⠞⠞⠗⠊⠃⠥⠞⠑⠀⠶⠀⠧⠁⠇⠥⠑"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠎⠑⠇⠋⠲⠁⠞⠞⠗⠊⠃⠥⠞⠑⠀⠶⠀⠧⠁⠇⠥⠑\n\n### Response:\nself.attribute = value"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nx = 0\n\n### Response:\n⠭⠀⠶⠀⢚"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠭⠀⠶⠀⢚\n\n### Response:\nx = 0"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nresult = func(arg)\n\n### Response:\n⠗⠑⠎⠥⠇⠞⠀⠶⠀⠋⠥⠝⠉⠶⠁⠗⠛⠶"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠗⠑⠎⠥⠇⠞⠀⠶⠀⠋⠥⠝⠉⠶⠁⠗⠛⠶\n\n### Response:\nresult = func(arg)"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nprint(\"Hello\")\n\n### Response:\n⠏⠗⠊⠝⠞⠶⠤⡓⠑⠇⠇⠕⠤⠶"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠏⠗⠊⠝⠞⠶⠤⡓⠑⠇⠇⠕⠤⠶\n\n### Response:\nprint(\"Hello\")"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\n# comment\n\n### Response:\n⠼⠀⠉⠕⠍⠍⠑⠝⠞"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠼⠀⠉⠕⠍⠍⠑⠝⠞\n\n### Response:\n# comment"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nlist_comp = [x for x in items]\n\n### Response:\n⠇⠊⠎⠞⠸⠉⠕⠍⠏⠀⠶⠀⠮⠭⠀⠋⠕⠗⠀⠭⠀⠊⠝⠀⠊⠞⠑⠍⠎⠾"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠇⠊⠎⠞⠸⠉⠕⠍⠏⠀⠶⠀⠮⠭⠀⠋⠕⠗⠀⠭⠀⠊⠝⠀⠊⠞⠑⠍⠎⠾\n\n### Response:\nlist_comp = [x for x in items]"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\ndict_comp = {k: v for k, v in items}\n\n### Response:\n⠙⠊⠉⠞⠸⠉⠕⠍⠏⠀⠶⠀⠯⠅⠒⠀⠧⠀⠋⠕⠗⠀⠅⠂⠀⠧⠀⠊⠝⠀⠊⠞⠑⠍⠎⠿"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠙⠊⠉⠞⠸⠉⠕⠍⠏⠀⠶⠀⠯⠅⠒⠀⠧⠀⠋⠕⠗⠀⠅⠂⠀⠧⠀⠊⠝⠀⠊⠞⠑⠍⠎⠿\n\n### Response:\ndict_comp = {k: v for k, v in items}"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nlambda x: x * 2\n\n### Response:\n⠇⠁⠍⠃⠙⠁⠀⠭⠒⠀⠭⠀⠔⠀⢃"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠇⠁⠍⠃⠙⠁⠀⠭⠒⠀⠭⠀⠔⠀⢃\n\n### Response:\nlambda x: x * 2"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nasync def async_func():\n\n### Response:\n⠁⠎⠽⠝⠉⠀⠙⠑⠋⠀⠁⠎⠽⠝⠉⠸⠋⠥⠝⠉⠶⠶⠒"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠁⠎⠽⠝⠉⠀⠙⠑⠋⠀⠁⠎⠽⠝⠉⠸⠋⠥⠝⠉⠶⠶⠒\n\n### Response:\nasync def async_func():"}
+{"text": "### Instruction:\nConvert this Python code to 8-dot braille\n\n### Input:\nawait coroutine()\n\n### Response:\n⠁⠺⠁⠊⠞⠀⠉⠕⠗⠕⠥⠞⠊⠝⠑⠶⠶"}
+{"text": "### Instruction:\nConvert this braille back to Python code\n\n### Input:\n⠁⠺⠁⠊⠞⠀⠉⠕⠗⠕⠥⠞⠊⠝⠑⠶⠶\n\n### Response:\nawait coroutine()"}
+{"text": "### Instruction:\nWhat does this braille code represent? It shows a variable assignment\n\n### Input:\n⠭⠀⠶⠀⢐\n\n### Response:\nThis braille represents the variable assignment: x = 5"}
+{"text": "### Instruction:\nWhat does this braille code represent? It shows a function definition\n\n### Input:\n⠙⠑⠋⠀⠋⠕⠕⠐⠣⠐⠜⠒\n\n### Response:\nThis braille represents the function definition: def foo():"}
+{"text": "### Instruction:\nWhat does this braille code represent? It shows a list creation\n\n### Input:\n⠈⠣⠈⠜\n\n### Response:\nThis braille represents the list creation: []"}
+{"text": "### Instruction:\nWhat does this braille code represent? It shows a dictionary\n\n### Input:\n⠘⠣⠘⠜\n\n### Response:\nThis braille represents the dictionary: {}"}
+{"text": "### Instruction:\nWhat does this braille code represent? It shows a string\n\n### Input:\n⠘⠦⠘⠴\n\n### Response:\nThis braille represents the string: \"\""}
+{"text": "### Instruction:\nWhat does this braille code represent? It shows a comment\n\n### Input:\n⠸⠹\n\n### Response:\nThis braille represents the comment: #"}
+{"text": "### Instruction:\nWhat does this braille code represent? It shows a method call\n\n### Input:\n⠲⠍⠑⠞⠓⠕⠙⠐⠣⠐⠜\n\n### Response:\nThis braille represents the method call: .method()"}
+{"text": "### Instruction:\nExplain the braille character: ⠁\n\n### Input:\n⠁\n\n### Response:\nThe braille character ⠁ has dot 1 raised, representing the letter \"a\""}
+{"text": "### Instruction:\nWhat braille character has dots 1 raised?\n\n### Input:\ndots 1\n\n### Response:\nThe braille character with dots 1 raised is: ⠁ (meaning: a)"}
+{"text": "### Instruction:\nExplain the braille character: ⠃\n\n### Input:\n⠃\n\n### Response:\nThe braille character ⠃ has dots 1 and 2 raised, representing the letter \"b\""}
+{"text": "### Instruction:\nWhat braille character has dots 12 raised?\n\n### Input:\ndots 12\n\n### Response:\nThe braille character with dots 12 raised is: ⠃ (meaning: b)"}
+{"text": "### Instruction:\nExplain the braille character: ⠉\n\n### Input:\n⠉\n\n### Response:\nThe braille character ⠉ has dots 1 and 4 raised, representing the letter \"c\""}
+{"text": "### Instruction:\nWhat braille character has dots 14 raised?\n\n### Input:\ndots 14\n\n### Response:\nThe braille character with dots 14 raised is: ⠉ (meaning: c)"}
+{"text": "### Instruction:\nExplain the braille character: ⠙\n\n### Input:\n⠙\n\n### Response:\nThe braille character ⠙ has dots 1, 4, and 5 raised, representing the letter \"d\""}
+{"text": "### Instruction:\nWhat braille character has dots 145 raised?\n\n### Input:\ndots 145\n\n### Response:\nThe braille character with dots 145 raised is: ⠙ (meaning: d)"}
+{"text": "### Instruction:\nExplain the braille character: ⠑\n\n### Input:\n⠑\n\n### Response:\nThe braille character ⠑ has dots 1 and 5 raised, representing the letter \"e\""}
+{"text": "### Instruction:\nWhat braille character has dots 15 raised?\n\n### Input:\ndots 15\n\n### Response:\nThe braille character with dots 15 raised is: ⠑ (meaning: e)"}
+{"text": "### Instruction:\nExplain the braille character: ⠋\n\n### Input:\n⠋\n\n### Response:\nThe braille character ⠋ has dots 1, 2, and 4 raised, representing the letter \"f\""}
+{"text": "### Instruction:\nWhat braille character has dots 124 raised?\n\n### Input:\ndots 124\n\n### Response:\nThe braille character with dots 124 raised is: ⠋ (meaning: f)"}
+{"text": "### Instruction:\nExplain the braille character: ⠿\n\n### Input:\n⠿\n\n### Response:\nThe braille character ⠿ has all 6 dots raised in standard braille"}
+{"text": "### Instruction:\nWhat braille character has dots 123456 raised?\n\n### Input:\ndots 123456\n\n### Response:\nThe braille character with dots 123456 raised is: ⠿ (meaning: for)"}
+{"text": "### Instruction:\nExplain the braille character: ⣿\n\n### Input:\n⣿\n\n### Response:\nThe braille character ⣿ has all 8 dots raised in 8-dot braille"}
+{"text": "### Instruction:\nWhat braille character has dots 12345678 raised?\n\n### Input:\ndots 12345678\n\n### Response:\nThe braille character with dots 12345678 raised is: ⣿ (meaning: full)"}
+{"text": "### Instruction:\nWhat is the difference between 6-dot and 8-dot braille?\n\n### Input:\n\n\n### Response:\n6-dot braille uses a 2x3 matrix (dots 1-6) allowing 64 patterns.\n8-dot braille uses a 2x4 matrix (dots 1-8) allowing 256 patterns.\nThe extra dots 7 and 8 are below dots 3 and 6 respectively.\n8-dot braille can encode more characters, making it ideal for programming."}
+{"text": "### Instruction:\nWhy is 8-dot braille better for programming?\n\n### Input:\n\n\n### Response:\n8-dot braille offers 256 unique characters (vs 64 in 6-dot braille).\nThis matches the extended ASCII character set perfectly.\nProgramming requires many symbols: brackets, operators, punctuation.\n8-dot braille can represent all these without complex multi-cell sequences.\nIt also enables denser code representation with better compression."}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\na\n\n### Response:\n⠁"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠁\n\n### Response:\na"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nb\n\n### Response:\n⠃"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠃\n\n### Response:\nb"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nc\n\n### Response:\n⠉"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠉\n\n### Response:\nc"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nd\n\n### Response:\n⠙"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠙\n\n### Response:\nd"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\ne\n\n### Response:\n⠑"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠑\n\n### Response:\ne"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nf\n\n### Response:\n⠋"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠋\n\n### Response:\nf"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\ng\n\n### Response:\n⠛"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠛\n\n### Response:\ng"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nh\n\n### Response:\n⠓"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠓\n\n### Response:\nh"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\ni\n\n### Response:\n⠊"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠊\n\n### Response:\ni"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nj\n\n### Response:\n⠚"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠚\n\n### Response:\nj"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nk\n\n### Response:\n⠅"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠅\n\n### Response:\nk"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nl\n\n### Response:\n⠇"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠇\n\n### Response:\nl"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nm\n\n### Response:\n⠍"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠍\n\n### Response:\nm"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nn\n\n### Response:\n⠝"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠝\n\n### Response:\nn"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\no\n\n### Response:\n⠕"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠕\n\n### Response:\no"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\np\n\n### Response:\n⠏"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠏\n\n### Response:\np"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nq\n\n### Response:\n⠟"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠟\n\n### Response:\nq"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nr\n\n### Response:\n⠗"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠗\n\n### Response:\nr"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\ns\n\n### Response:\n⠎"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠎\n\n### Response:\ns"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nt\n\n### Response:\n⠞"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠞\n\n### Response:\nt"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nu\n\n### Response:\n⠥"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠥\n\n### Response:\nu"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nv\n\n### Response:\n⠧"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠧\n\n### Response:\nv"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nw\n\n### Response:\n⠺"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠺\n\n### Response:\nw"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nx\n\n### Response:\n⠭"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠭\n\n### Response:\nx"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\ny\n\n### Response:\n⠽"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠽\n\n### Response:\ny"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nz\n\n### Response:\n⠵"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠵\n\n### Response:\nz"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nA\n\n### Response:\n⡁"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡁\n\n### Response:\nA"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nB\n\n### Response:\n⡃"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡃\n\n### Response:\nB"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nC\n\n### Response:\n⡉"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡉\n\n### Response:\nC"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nD\n\n### Response:\n⡙"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡙\n\n### Response:\nD"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nE\n\n### Response:\n⡑"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡑\n\n### Response:\nE"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nF\n\n### Response:\n⡋"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡋\n\n### Response:\nF"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nG\n\n### Response:\n⡛"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡛\n\n### Response:\nG"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nH\n\n### Response:\n⡓"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡓\n\n### Response:\nH"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nI\n\n### Response:\n⡊"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡊\n\n### Response:\nI"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nJ\n\n### Response:\n⡚"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡚\n\n### Response:\nJ"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nK\n\n### Response:\n⡅"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡅\n\n### Response:\nK"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nL\n\n### Response:\n⡇"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡇\n\n### Response:\nL"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nM\n\n### Response:\n⡍"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡍\n\n### Response:\nM"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nN\n\n### Response:\n⡝"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡝\n\n### Response:\nN"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nO\n\n### Response:\n⡕"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡕\n\n### Response:\nO"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nP\n\n### Response:\n⡏"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡏\n\n### Response:\nP"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nQ\n\n### Response:\n⡟"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡟\n\n### Response:\nQ"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nR\n\n### Response:\n⡗"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡗\n\n### Response:\nR"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nS\n\n### Response:\n⡎"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡎\n\n### Response:\nS"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nT\n\n### Response:\n⡞"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡞\n\n### Response:\nT"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nU\n\n### Response:\n⡥"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡥\n\n### Response:\nU"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nV\n\n### Response:\n⡧"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡧\n\n### Response:\nV"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nW\n\n### Response:\n⡺"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡺\n\n### Response:\nW"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nX\n\n### Response:\n⡭"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡭\n\n### Response:\nX"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nY\n\n### Response:\n⡽"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡽\n\n### Response:\nY"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\nZ\n\n### Response:\n⡵"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⡵\n\n### Response:\nZ"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n0\n\n### Response:\n⢚"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⢚\n\n### Response:\n0"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n1\n\n### Response:\n⢁"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⢁\n\n### Response:\n1"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n2\n\n### Response:\n⢃"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⢃\n\n### Response:\n2"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n3\n\n### Response:\n⢉"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⢉\n\n### Response:\n3"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n4\n\n### Response:\n⢙"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⢙\n\n### Response:\n4"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n5\n\n### Response:\n⢑"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⢑\n\n### Response:\n5"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n6\n\n### Response:\n⢋"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⢋\n\n### Response:\n6"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n7\n\n### Response:\n⢛"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⢛\n\n### Response:\n7"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n8\n\n### Response:\n⢓"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⢓\n\n### Response:\n8"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n9\n\n### Response:\n⢊"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⢊\n\n### Response:\n9"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n.\n\n### Response:\n⠲"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠲\n\n### Response:\n."}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n,\n\n### Response:\n⠂"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠂\n\n### Response:\n,"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n;\n\n### Response:\n⠆"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠆\n\n### Response:\n;"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n:\n\n### Response:\n⠒"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠒\n\n### Response:\n:"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n!\n\n### Response:\n⠖"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠖\n\n### Response:\n!"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n?\n\n### Response:\n⠦"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠦\n\n### Response:\n?"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n'\n\n### Response:\n⠄"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠄\n\n### Response:\n'"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n\"\n\n### Response:\n⠤"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠤\n\n### Response:\n\""}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n(\n\n### Response:\n⠶"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠶\n\n### Response:\n("}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n)\n\n### Response:\n⠶"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠶\n\n### Response:\n)"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n-\n\n### Response:\n⠤"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠤\n\n### Response:\n-"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n[\n\n### Response:\n⠮"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠮\n\n### Response:\n["}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n]\n\n### Response:\n⠾"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠾\n\n### Response:\n]"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n{\n\n### Response:\n⠯"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠯\n\n### Response:\n{"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n}\n\n### Response:\n⠿"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠿\n\n### Response:\n}"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n/\n\n### Response:\n⠌"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠌\n\n### Response:\n/"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n<\n\n### Response:\n⠣"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠣\n\n### Response:\n<"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n>\n\n### Response:\n⠜"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠜\n\n### Response:\n>"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n@\n\n### Response:\n⠈"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠈\n\n### Response:\n@"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n#\n\n### Response:\n⠼"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠼\n\n### Response:\n#"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n$\n\n### Response:\n⠫"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠫\n\n### Response:\n$"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n%\n\n### Response:\n⠬"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠬\n\n### Response:\n%"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n^\n\n### Response:\n⠘"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠘\n\n### Response:\n^"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n&\n\n### Response:\n⠯"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠯\n\n### Response:\n&"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n*\n\n### Response:\n⠔"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠔\n\n### Response:\n*"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n_\n\n### Response:\n⠸"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠸\n\n### Response:\n_"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n+\n\n### Response:\n⠮"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠮\n\n### Response:\n+"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n=\n\n### Response:\n⠶"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠶\n\n### Response:\n="}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n\\\n\n### Response:\n⠡"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠡\n\n### Response:\n\\"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n|\n\n### Response:\n⠳"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠳\n\n### Response:\n|"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n`\n\n### Response:\n⠠"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠠\n\n### Response:\n`"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n~\n\n### Response:\n⠨"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠨\n\n### Response:\n~"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n \n\n### Response:\n⠀"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠀\n\n### Response:\n "}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n\n\n\n### Response:\n⠀"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠀\n\n### Response:\n\n"}
+{"text": "### Instruction:\nConvert ASCII character to braille\n\n### Input:\n\t\n\n### Response:\n⠉"}
+{"text": "### Instruction:\nConvert braille to ASCII character\n\n### Input:\n⠉\n\n### Response:\n\t"}

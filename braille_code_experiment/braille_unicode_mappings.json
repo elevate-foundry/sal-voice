@@ -1,0 +1,3585 @@
+[
+  {
+    "unicode": "U+2800",
+    "braille": "⠀",
+    "dots": [],
+    "dot_string": "blank",
+    "decimal": 0,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2801",
+    "braille": "⠁",
+    "dots": [
+      1
+    ],
+    "dot_string": "1",
+    "decimal": 1,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2802",
+    "braille": "⠂",
+    "dots": [
+      2
+    ],
+    "dot_string": "2",
+    "decimal": 2,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2803",
+    "braille": "⠃",
+    "dots": [
+      1,
+      2
+    ],
+    "dot_string": "12",
+    "decimal": 3,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2804",
+    "braille": "⠄",
+    "dots": [
+      3
+    ],
+    "dot_string": "3",
+    "decimal": 4,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2805",
+    "braille": "⠅",
+    "dots": [
+      1,
+      3
+    ],
+    "dot_string": "13",
+    "decimal": 5,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2806",
+    "braille": "⠆",
+    "dots": [
+      2,
+      3
+    ],
+    "dot_string": "23",
+    "decimal": 6,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2807",
+    "braille": "⠇",
+    "dots": [
+      1,
+      2,
+      3
+    ],
+    "dot_string": "123",
+    "decimal": 7,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2808",
+    "braille": "⠈",
+    "dots": [
+      4
+    ],
+    "dot_string": "4",
+    "decimal": 8,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2809",
+    "braille": "⠉",
+    "dots": [
+      1,
+      4
+    ],
+    "dot_string": "14",
+    "decimal": 9,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+280A",
+    "braille": "⠊",
+    "dots": [
+      2,
+      4
+    ],
+    "dot_string": "24",
+    "decimal": 10,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+280B",
+    "braille": "⠋",
+    "dots": [
+      1,
+      2,
+      4
+    ],
+    "dot_string": "124",
+    "decimal": 11,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+280C",
+    "braille": "⠌",
+    "dots": [
+      3,
+      4
+    ],
+    "dot_string": "34",
+    "decimal": 12,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+280D",
+    "braille": "⠍",
+    "dots": [
+      1,
+      3,
+      4
+    ],
+    "dot_string": "134",
+    "decimal": 13,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+280E",
+    "braille": "⠎",
+    "dots": [
+      2,
+      3,
+      4
+    ],
+    "dot_string": "234",
+    "decimal": 14,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+280F",
+    "braille": "⠏",
+    "dots": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "dot_string": "1234",
+    "decimal": 15,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2810",
+    "braille": "⠐",
+    "dots": [
+      5
+    ],
+    "dot_string": "5",
+    "decimal": 16,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2811",
+    "braille": "⠑",
+    "dots": [
+      1,
+      5
+    ],
+    "dot_string": "15",
+    "decimal": 17,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2812",
+    "braille": "⠒",
+    "dots": [
+      2,
+      5
+    ],
+    "dot_string": "25",
+    "decimal": 18,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2813",
+    "braille": "⠓",
+    "dots": [
+      1,
+      2,
+      5
+    ],
+    "dot_string": "125",
+    "decimal": 19,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2814",
+    "braille": "⠔",
+    "dots": [
+      3,
+      5
+    ],
+    "dot_string": "35",
+    "decimal": 20,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2815",
+    "braille": "⠕",
+    "dots": [
+      1,
+      3,
+      5
+    ],
+    "dot_string": "135",
+    "decimal": 21,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2816",
+    "braille": "⠖",
+    "dots": [
+      2,
+      3,
+      5
+    ],
+    "dot_string": "235",
+    "decimal": 22,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2817",
+    "braille": "⠗",
+    "dots": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "dot_string": "1235",
+    "decimal": 23,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2818",
+    "braille": "⠘",
+    "dots": [
+      4,
+      5
+    ],
+    "dot_string": "45",
+    "decimal": 24,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2819",
+    "braille": "⠙",
+    "dots": [
+      1,
+      4,
+      5
+    ],
+    "dot_string": "145",
+    "decimal": 25,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+281A",
+    "braille": "⠚",
+    "dots": [
+      2,
+      4,
+      5
+    ],
+    "dot_string": "245",
+    "decimal": 26,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+281B",
+    "braille": "⠛",
+    "dots": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "dot_string": "1245",
+    "decimal": 27,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+281C",
+    "braille": "⠜",
+    "dots": [
+      3,
+      4,
+      5
+    ],
+    "dot_string": "345",
+    "decimal": 28,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+281D",
+    "braille": "⠝",
+    "dots": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "dot_string": "1345",
+    "decimal": 29,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+281E",
+    "braille": "⠞",
+    "dots": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "dot_string": "2345",
+    "decimal": 30,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+281F",
+    "braille": "⠟",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "dot_string": "12345",
+    "decimal": 31,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2820",
+    "braille": "⠠",
+    "dots": [
+      6
+    ],
+    "dot_string": "6",
+    "decimal": 32,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2821",
+    "braille": "⠡",
+    "dots": [
+      1,
+      6
+    ],
+    "dot_string": "16",
+    "decimal": 33,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2822",
+    "braille": "⠢",
+    "dots": [
+      2,
+      6
+    ],
+    "dot_string": "26",
+    "decimal": 34,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2823",
+    "braille": "⠣",
+    "dots": [
+      1,
+      2,
+      6
+    ],
+    "dot_string": "126",
+    "decimal": 35,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2824",
+    "braille": "⠤",
+    "dots": [
+      3,
+      6
+    ],
+    "dot_string": "36",
+    "decimal": 36,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2825",
+    "braille": "⠥",
+    "dots": [
+      1,
+      3,
+      6
+    ],
+    "dot_string": "136",
+    "decimal": 37,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2826",
+    "braille": "⠦",
+    "dots": [
+      2,
+      3,
+      6
+    ],
+    "dot_string": "236",
+    "decimal": 38,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2827",
+    "braille": "⠧",
+    "dots": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "dot_string": "1236",
+    "decimal": 39,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2828",
+    "braille": "⠨",
+    "dots": [
+      4,
+      6
+    ],
+    "dot_string": "46",
+    "decimal": 40,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2829",
+    "braille": "⠩",
+    "dots": [
+      1,
+      4,
+      6
+    ],
+    "dot_string": "146",
+    "decimal": 41,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+282A",
+    "braille": "⠪",
+    "dots": [
+      2,
+      4,
+      6
+    ],
+    "dot_string": "246",
+    "decimal": 42,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+282B",
+    "braille": "⠫",
+    "dots": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "dot_string": "1246",
+    "decimal": 43,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+282C",
+    "braille": "⠬",
+    "dots": [
+      3,
+      4,
+      6
+    ],
+    "dot_string": "346",
+    "decimal": 44,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+282D",
+    "braille": "⠭",
+    "dots": [
+      1,
+      3,
+      4,
+      6
+    ],
+    "dot_string": "1346",
+    "decimal": 45,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+282E",
+    "braille": "⠮",
+    "dots": [
+      2,
+      3,
+      4,
+      6
+    ],
+    "dot_string": "2346",
+    "decimal": 46,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+282F",
+    "braille": "⠯",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      6
+    ],
+    "dot_string": "12346",
+    "decimal": 47,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2830",
+    "braille": "⠰",
+    "dots": [
+      5,
+      6
+    ],
+    "dot_string": "56",
+    "decimal": 48,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2831",
+    "braille": "⠱",
+    "dots": [
+      1,
+      5,
+      6
+    ],
+    "dot_string": "156",
+    "decimal": 49,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2832",
+    "braille": "⠲",
+    "dots": [
+      2,
+      5,
+      6
+    ],
+    "dot_string": "256",
+    "decimal": 50,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2833",
+    "braille": "⠳",
+    "dots": [
+      1,
+      2,
+      5,
+      6
+    ],
+    "dot_string": "1256",
+    "decimal": 51,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2834",
+    "braille": "⠴",
+    "dots": [
+      3,
+      5,
+      6
+    ],
+    "dot_string": "356",
+    "decimal": 52,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2835",
+    "braille": "⠵",
+    "dots": [
+      1,
+      3,
+      5,
+      6
+    ],
+    "dot_string": "1356",
+    "decimal": 53,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2836",
+    "braille": "⠶",
+    "dots": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "dot_string": "2356",
+    "decimal": 54,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2837",
+    "braille": "⠷",
+    "dots": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ],
+    "dot_string": "12356",
+    "decimal": 55,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2838",
+    "braille": "⠸",
+    "dots": [
+      4,
+      5,
+      6
+    ],
+    "dot_string": "456",
+    "decimal": 56,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2839",
+    "braille": "⠹",
+    "dots": [
+      1,
+      4,
+      5,
+      6
+    ],
+    "dot_string": "1456",
+    "decimal": 57,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+283A",
+    "braille": "⠺",
+    "dots": [
+      2,
+      4,
+      5,
+      6
+    ],
+    "dot_string": "2456",
+    "decimal": 58,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+283B",
+    "braille": "⠻",
+    "dots": [
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
+    "dot_string": "12456",
+    "decimal": 59,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+283C",
+    "braille": "⠼",
+    "dots": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "dot_string": "3456",
+    "decimal": 60,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+283D",
+    "braille": "⠽",
+    "dots": [
+      1,
+      3,
+      4,
+      5,
+      6
+    ],
+    "dot_string": "13456",
+    "decimal": 61,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+283E",
+    "braille": "⠾",
+    "dots": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "dot_string": "23456",
+    "decimal": 62,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+283F",
+    "braille": "⠿",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "dot_string": "123456",
+    "decimal": 63,
+    "is_6dot": true,
+    "is_8dot": false
+  },
+  {
+    "unicode": "U+2840",
+    "braille": "⡀",
+    "dots": [
+      7
+    ],
+    "dot_string": "7",
+    "decimal": 64,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2841",
+    "braille": "⡁",
+    "dots": [
+      1,
+      7
+    ],
+    "dot_string": "17",
+    "decimal": 65,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2842",
+    "braille": "⡂",
+    "dots": [
+      2,
+      7
+    ],
+    "dot_string": "27",
+    "decimal": 66,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2843",
+    "braille": "⡃",
+    "dots": [
+      1,
+      2,
+      7
+    ],
+    "dot_string": "127",
+    "decimal": 67,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2844",
+    "braille": "⡄",
+    "dots": [
+      3,
+      7
+    ],
+    "dot_string": "37",
+    "decimal": 68,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2845",
+    "braille": "⡅",
+    "dots": [
+      1,
+      3,
+      7
+    ],
+    "dot_string": "137",
+    "decimal": 69,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2846",
+    "braille": "⡆",
+    "dots": [
+      2,
+      3,
+      7
+    ],
+    "dot_string": "237",
+    "decimal": 70,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2847",
+    "braille": "⡇",
+    "dots": [
+      1,
+      2,
+      3,
+      7
+    ],
+    "dot_string": "1237",
+    "decimal": 71,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2848",
+    "braille": "⡈",
+    "dots": [
+      4,
+      7
+    ],
+    "dot_string": "47",
+    "decimal": 72,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2849",
+    "braille": "⡉",
+    "dots": [
+      1,
+      4,
+      7
+    ],
+    "dot_string": "147",
+    "decimal": 73,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+284A",
+    "braille": "⡊",
+    "dots": [
+      2,
+      4,
+      7
+    ],
+    "dot_string": "247",
+    "decimal": 74,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+284B",
+    "braille": "⡋",
+    "dots": [
+      1,
+      2,
+      4,
+      7
+    ],
+    "dot_string": "1247",
+    "decimal": 75,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+284C",
+    "braille": "⡌",
+    "dots": [
+      3,
+      4,
+      7
+    ],
+    "dot_string": "347",
+    "decimal": 76,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+284D",
+    "braille": "⡍",
+    "dots": [
+      1,
+      3,
+      4,
+      7
+    ],
+    "dot_string": "1347",
+    "decimal": 77,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+284E",
+    "braille": "⡎",
+    "dots": [
+      2,
+      3,
+      4,
+      7
+    ],
+    "dot_string": "2347",
+    "decimal": 78,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+284F",
+    "braille": "⡏",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      7
+    ],
+    "dot_string": "12347",
+    "decimal": 79,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2850",
+    "braille": "⡐",
+    "dots": [
+      5,
+      7
+    ],
+    "dot_string": "57",
+    "decimal": 80,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2851",
+    "braille": "⡑",
+    "dots": [
+      1,
+      5,
+      7
+    ],
+    "dot_string": "157",
+    "decimal": 81,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2852",
+    "braille": "⡒",
+    "dots": [
+      2,
+      5,
+      7
+    ],
+    "dot_string": "257",
+    "decimal": 82,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2853",
+    "braille": "⡓",
+    "dots": [
+      1,
+      2,
+      5,
+      7
+    ],
+    "dot_string": "1257",
+    "decimal": 83,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2854",
+    "braille": "⡔",
+    "dots": [
+      3,
+      5,
+      7
+    ],
+    "dot_string": "357",
+    "decimal": 84,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2855",
+    "braille": "⡕",
+    "dots": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "dot_string": "1357",
+    "decimal": 85,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2856",
+    "braille": "⡖",
+    "dots": [
+      2,
+      3,
+      5,
+      7
+    ],
+    "dot_string": "2357",
+    "decimal": 86,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2857",
+    "braille": "⡗",
+    "dots": [
+      1,
+      2,
+      3,
+      5,
+      7
+    ],
+    "dot_string": "12357",
+    "decimal": 87,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2858",
+    "braille": "⡘",
+    "dots": [
+      4,
+      5,
+      7
+    ],
+    "dot_string": "457",
+    "decimal": 88,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2859",
+    "braille": "⡙",
+    "dots": [
+      1,
+      4,
+      5,
+      7
+    ],
+    "dot_string": "1457",
+    "decimal": 89,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+285A",
+    "braille": "⡚",
+    "dots": [
+      2,
+      4,
+      5,
+      7
+    ],
+    "dot_string": "2457",
+    "decimal": 90,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+285B",
+    "braille": "⡛",
+    "dots": [
+      1,
+      2,
+      4,
+      5,
+      7
+    ],
+    "dot_string": "12457",
+    "decimal": 91,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+285C",
+    "braille": "⡜",
+    "dots": [
+      3,
+      4,
+      5,
+      7
+    ],
+    "dot_string": "3457",
+    "decimal": 92,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+285D",
+    "braille": "⡝",
+    "dots": [
+      1,
+      3,
+      4,
+      5,
+      7
+    ],
+    "dot_string": "13457",
+    "decimal": 93,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+285E",
+    "braille": "⡞",
+    "dots": [
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "dot_string": "23457",
+    "decimal": 94,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+285F",
+    "braille": "⡟",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "dot_string": "123457",
+    "decimal": 95,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2860",
+    "braille": "⡠",
+    "dots": [
+      6,
+      7
+    ],
+    "dot_string": "67",
+    "decimal": 96,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2861",
+    "braille": "⡡",
+    "dots": [
+      1,
+      6,
+      7
+    ],
+    "dot_string": "167",
+    "decimal": 97,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2862",
+    "braille": "⡢",
+    "dots": [
+      2,
+      6,
+      7
+    ],
+    "dot_string": "267",
+    "decimal": 98,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2863",
+    "braille": "⡣",
+    "dots": [
+      1,
+      2,
+      6,
+      7
+    ],
+    "dot_string": "1267",
+    "decimal": 99,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2864",
+    "braille": "⡤",
+    "dots": [
+      3,
+      6,
+      7
+    ],
+    "dot_string": "367",
+    "decimal": 100,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2865",
+    "braille": "⡥",
+    "dots": [
+      1,
+      3,
+      6,
+      7
+    ],
+    "dot_string": "1367",
+    "decimal": 101,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2866",
+    "braille": "⡦",
+    "dots": [
+      2,
+      3,
+      6,
+      7
+    ],
+    "dot_string": "2367",
+    "decimal": 102,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2867",
+    "braille": "⡧",
+    "dots": [
+      1,
+      2,
+      3,
+      6,
+      7
+    ],
+    "dot_string": "12367",
+    "decimal": 103,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2868",
+    "braille": "⡨",
+    "dots": [
+      4,
+      6,
+      7
+    ],
+    "dot_string": "467",
+    "decimal": 104,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2869",
+    "braille": "⡩",
+    "dots": [
+      1,
+      4,
+      6,
+      7
+    ],
+    "dot_string": "1467",
+    "decimal": 105,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+286A",
+    "braille": "⡪",
+    "dots": [
+      2,
+      4,
+      6,
+      7
+    ],
+    "dot_string": "2467",
+    "decimal": 106,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+286B",
+    "braille": "⡫",
+    "dots": [
+      1,
+      2,
+      4,
+      6,
+      7
+    ],
+    "dot_string": "12467",
+    "decimal": 107,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+286C",
+    "braille": "⡬",
+    "dots": [
+      3,
+      4,
+      6,
+      7
+    ],
+    "dot_string": "3467",
+    "decimal": 108,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+286D",
+    "braille": "⡭",
+    "dots": [
+      1,
+      3,
+      4,
+      6,
+      7
+    ],
+    "dot_string": "13467",
+    "decimal": 109,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+286E",
+    "braille": "⡮",
+    "dots": [
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "dot_string": "23467",
+    "decimal": 110,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+286F",
+    "braille": "⡯",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "dot_string": "123467",
+    "decimal": 111,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2870",
+    "braille": "⡰",
+    "dots": [
+      5,
+      6,
+      7
+    ],
+    "dot_string": "567",
+    "decimal": 112,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2871",
+    "braille": "⡱",
+    "dots": [
+      1,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "1567",
+    "decimal": 113,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2872",
+    "braille": "⡲",
+    "dots": [
+      2,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "2567",
+    "decimal": 114,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2873",
+    "braille": "⡳",
+    "dots": [
+      1,
+      2,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "12567",
+    "decimal": 115,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2874",
+    "braille": "⡴",
+    "dots": [
+      3,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "3567",
+    "decimal": 116,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2875",
+    "braille": "⡵",
+    "dots": [
+      1,
+      3,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "13567",
+    "decimal": 117,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2876",
+    "braille": "⡶",
+    "dots": [
+      2,
+      3,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "23567",
+    "decimal": 118,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2877",
+    "braille": "⡷",
+    "dots": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "123567",
+    "decimal": 119,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2878",
+    "braille": "⡸",
+    "dots": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "4567",
+    "decimal": 120,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2879",
+    "braille": "⡹",
+    "dots": [
+      1,
+      4,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "14567",
+    "decimal": 121,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+287A",
+    "braille": "⡺",
+    "dots": [
+      2,
+      4,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "24567",
+    "decimal": 122,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+287B",
+    "braille": "⡻",
+    "dots": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "124567",
+    "decimal": 123,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+287C",
+    "braille": "⡼",
+    "dots": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "34567",
+    "decimal": 124,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+287D",
+    "braille": "⡽",
+    "dots": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "134567",
+    "decimal": 125,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+287E",
+    "braille": "⡾",
+    "dots": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "234567",
+    "decimal": 126,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+287F",
+    "braille": "⡿",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "dot_string": "1234567",
+    "decimal": 127,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2880",
+    "braille": "⢀",
+    "dots": [
+      8
+    ],
+    "dot_string": "8",
+    "decimal": 128,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2881",
+    "braille": "⢁",
+    "dots": [
+      1,
+      8
+    ],
+    "dot_string": "18",
+    "decimal": 129,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2882",
+    "braille": "⢂",
+    "dots": [
+      2,
+      8
+    ],
+    "dot_string": "28",
+    "decimal": 130,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2883",
+    "braille": "⢃",
+    "dots": [
+      1,
+      2,
+      8
+    ],
+    "dot_string": "128",
+    "decimal": 131,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2884",
+    "braille": "⢄",
+    "dots": [
+      3,
+      8
+    ],
+    "dot_string": "38",
+    "decimal": 132,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2885",
+    "braille": "⢅",
+    "dots": [
+      1,
+      3,
+      8
+    ],
+    "dot_string": "138",
+    "decimal": 133,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2886",
+    "braille": "⢆",
+    "dots": [
+      2,
+      3,
+      8
+    ],
+    "dot_string": "238",
+    "decimal": 134,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2887",
+    "braille": "⢇",
+    "dots": [
+      1,
+      2,
+      3,
+      8
+    ],
+    "dot_string": "1238",
+    "decimal": 135,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2888",
+    "braille": "⢈",
+    "dots": [
+      4,
+      8
+    ],
+    "dot_string": "48",
+    "decimal": 136,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2889",
+    "braille": "⢉",
+    "dots": [
+      1,
+      4,
+      8
+    ],
+    "dot_string": "148",
+    "decimal": 137,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+288A",
+    "braille": "⢊",
+    "dots": [
+      2,
+      4,
+      8
+    ],
+    "dot_string": "248",
+    "decimal": 138,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+288B",
+    "braille": "⢋",
+    "dots": [
+      1,
+      2,
+      4,
+      8
+    ],
+    "dot_string": "1248",
+    "decimal": 139,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+288C",
+    "braille": "⢌",
+    "dots": [
+      3,
+      4,
+      8
+    ],
+    "dot_string": "348",
+    "decimal": 140,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+288D",
+    "braille": "⢍",
+    "dots": [
+      1,
+      3,
+      4,
+      8
+    ],
+    "dot_string": "1348",
+    "decimal": 141,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+288E",
+    "braille": "⢎",
+    "dots": [
+      2,
+      3,
+      4,
+      8
+    ],
+    "dot_string": "2348",
+    "decimal": 142,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+288F",
+    "braille": "⢏",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      8
+    ],
+    "dot_string": "12348",
+    "decimal": 143,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2890",
+    "braille": "⢐",
+    "dots": [
+      5,
+      8
+    ],
+    "dot_string": "58",
+    "decimal": 144,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2891",
+    "braille": "⢑",
+    "dots": [
+      1,
+      5,
+      8
+    ],
+    "dot_string": "158",
+    "decimal": 145,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2892",
+    "braille": "⢒",
+    "dots": [
+      2,
+      5,
+      8
+    ],
+    "dot_string": "258",
+    "decimal": 146,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2893",
+    "braille": "⢓",
+    "dots": [
+      1,
+      2,
+      5,
+      8
+    ],
+    "dot_string": "1258",
+    "decimal": 147,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2894",
+    "braille": "⢔",
+    "dots": [
+      3,
+      5,
+      8
+    ],
+    "dot_string": "358",
+    "decimal": 148,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2895",
+    "braille": "⢕",
+    "dots": [
+      1,
+      3,
+      5,
+      8
+    ],
+    "dot_string": "1358",
+    "decimal": 149,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2896",
+    "braille": "⢖",
+    "dots": [
+      2,
+      3,
+      5,
+      8
+    ],
+    "dot_string": "2358",
+    "decimal": 150,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2897",
+    "braille": "⢗",
+    "dots": [
+      1,
+      2,
+      3,
+      5,
+      8
+    ],
+    "dot_string": "12358",
+    "decimal": 151,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2898",
+    "braille": "⢘",
+    "dots": [
+      4,
+      5,
+      8
+    ],
+    "dot_string": "458",
+    "decimal": 152,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+2899",
+    "braille": "⢙",
+    "dots": [
+      1,
+      4,
+      5,
+      8
+    ],
+    "dot_string": "1458",
+    "decimal": 153,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+289A",
+    "braille": "⢚",
+    "dots": [
+      2,
+      4,
+      5,
+      8
+    ],
+    "dot_string": "2458",
+    "decimal": 154,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+289B",
+    "braille": "⢛",
+    "dots": [
+      1,
+      2,
+      4,
+      5,
+      8
+    ],
+    "dot_string": "12458",
+    "decimal": 155,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+289C",
+    "braille": "⢜",
+    "dots": [
+      3,
+      4,
+      5,
+      8
+    ],
+    "dot_string": "3458",
+    "decimal": 156,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+289D",
+    "braille": "⢝",
+    "dots": [
+      1,
+      3,
+      4,
+      5,
+      8
+    ],
+    "dot_string": "13458",
+    "decimal": 157,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+289E",
+    "braille": "⢞",
+    "dots": [
+      2,
+      3,
+      4,
+      5,
+      8
+    ],
+    "dot_string": "23458",
+    "decimal": 158,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+289F",
+    "braille": "⢟",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8
+    ],
+    "dot_string": "123458",
+    "decimal": 159,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28A0",
+    "braille": "⢠",
+    "dots": [
+      6,
+      8
+    ],
+    "dot_string": "68",
+    "decimal": 160,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28A1",
+    "braille": "⢡",
+    "dots": [
+      1,
+      6,
+      8
+    ],
+    "dot_string": "168",
+    "decimal": 161,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28A2",
+    "braille": "⢢",
+    "dots": [
+      2,
+      6,
+      8
+    ],
+    "dot_string": "268",
+    "decimal": 162,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28A3",
+    "braille": "⢣",
+    "dots": [
+      1,
+      2,
+      6,
+      8
+    ],
+    "dot_string": "1268",
+    "decimal": 163,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28A4",
+    "braille": "⢤",
+    "dots": [
+      3,
+      6,
+      8
+    ],
+    "dot_string": "368",
+    "decimal": 164,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28A5",
+    "braille": "⢥",
+    "dots": [
+      1,
+      3,
+      6,
+      8
+    ],
+    "dot_string": "1368",
+    "decimal": 165,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28A6",
+    "braille": "⢦",
+    "dots": [
+      2,
+      3,
+      6,
+      8
+    ],
+    "dot_string": "2368",
+    "decimal": 166,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28A7",
+    "braille": "⢧",
+    "dots": [
+      1,
+      2,
+      3,
+      6,
+      8
+    ],
+    "dot_string": "12368",
+    "decimal": 167,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28A8",
+    "braille": "⢨",
+    "dots": [
+      4,
+      6,
+      8
+    ],
+    "dot_string": "468",
+    "decimal": 168,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28A9",
+    "braille": "⢩",
+    "dots": [
+      1,
+      4,
+      6,
+      8
+    ],
+    "dot_string": "1468",
+    "decimal": 169,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28AA",
+    "braille": "⢪",
+    "dots": [
+      2,
+      4,
+      6,
+      8
+    ],
+    "dot_string": "2468",
+    "decimal": 170,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28AB",
+    "braille": "⢫",
+    "dots": [
+      1,
+      2,
+      4,
+      6,
+      8
+    ],
+    "dot_string": "12468",
+    "decimal": 171,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28AC",
+    "braille": "⢬",
+    "dots": [
+      3,
+      4,
+      6,
+      8
+    ],
+    "dot_string": "3468",
+    "decimal": 172,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28AD",
+    "braille": "⢭",
+    "dots": [
+      1,
+      3,
+      4,
+      6,
+      8
+    ],
+    "dot_string": "13468",
+    "decimal": 173,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28AE",
+    "braille": "⢮",
+    "dots": [
+      2,
+      3,
+      4,
+      6,
+      8
+    ],
+    "dot_string": "23468",
+    "decimal": 174,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28AF",
+    "braille": "⢯",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      8
+    ],
+    "dot_string": "123468",
+    "decimal": 175,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28B0",
+    "braille": "⢰",
+    "dots": [
+      5,
+      6,
+      8
+    ],
+    "dot_string": "568",
+    "decimal": 176,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28B1",
+    "braille": "⢱",
+    "dots": [
+      1,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "1568",
+    "decimal": 177,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28B2",
+    "braille": "⢲",
+    "dots": [
+      2,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "2568",
+    "decimal": 178,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28B3",
+    "braille": "⢳",
+    "dots": [
+      1,
+      2,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "12568",
+    "decimal": 179,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28B4",
+    "braille": "⢴",
+    "dots": [
+      3,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "3568",
+    "decimal": 180,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28B5",
+    "braille": "⢵",
+    "dots": [
+      1,
+      3,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "13568",
+    "decimal": 181,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28B6",
+    "braille": "⢶",
+    "dots": [
+      2,
+      3,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "23568",
+    "decimal": 182,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28B7",
+    "braille": "⢷",
+    "dots": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "123568",
+    "decimal": 183,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28B8",
+    "braille": "⢸",
+    "dots": [
+      4,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "4568",
+    "decimal": 184,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28B9",
+    "braille": "⢹",
+    "dots": [
+      1,
+      4,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "14568",
+    "decimal": 185,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28BA",
+    "braille": "⢺",
+    "dots": [
+      2,
+      4,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "24568",
+    "decimal": 186,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28BB",
+    "braille": "⢻",
+    "dots": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "124568",
+    "decimal": 187,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28BC",
+    "braille": "⢼",
+    "dots": [
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "34568",
+    "decimal": 188,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28BD",
+    "braille": "⢽",
+    "dots": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "134568",
+    "decimal": 189,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28BE",
+    "braille": "⢾",
+    "dots": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "234568",
+    "decimal": 190,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28BF",
+    "braille": "⢿",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8
+    ],
+    "dot_string": "1234568",
+    "decimal": 191,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28C0",
+    "braille": "⣀",
+    "dots": [
+      7,
+      8
+    ],
+    "dot_string": "78",
+    "decimal": 192,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28C1",
+    "braille": "⣁",
+    "dots": [
+      1,
+      7,
+      8
+    ],
+    "dot_string": "178",
+    "decimal": 193,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28C2",
+    "braille": "⣂",
+    "dots": [
+      2,
+      7,
+      8
+    ],
+    "dot_string": "278",
+    "decimal": 194,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28C3",
+    "braille": "⣃",
+    "dots": [
+      1,
+      2,
+      7,
+      8
+    ],
+    "dot_string": "1278",
+    "decimal": 195,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28C4",
+    "braille": "⣄",
+    "dots": [
+      3,
+      7,
+      8
+    ],
+    "dot_string": "378",
+    "decimal": 196,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28C5",
+    "braille": "⣅",
+    "dots": [
+      1,
+      3,
+      7,
+      8
+    ],
+    "dot_string": "1378",
+    "decimal": 197,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28C6",
+    "braille": "⣆",
+    "dots": [
+      2,
+      3,
+      7,
+      8
+    ],
+    "dot_string": "2378",
+    "decimal": 198,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28C7",
+    "braille": "⣇",
+    "dots": [
+      1,
+      2,
+      3,
+      7,
+      8
+    ],
+    "dot_string": "12378",
+    "decimal": 199,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28C8",
+    "braille": "⣈",
+    "dots": [
+      4,
+      7,
+      8
+    ],
+    "dot_string": "478",
+    "decimal": 200,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28C9",
+    "braille": "⣉",
+    "dots": [
+      1,
+      4,
+      7,
+      8
+    ],
+    "dot_string": "1478",
+    "decimal": 201,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28CA",
+    "braille": "⣊",
+    "dots": [
+      2,
+      4,
+      7,
+      8
+    ],
+    "dot_string": "2478",
+    "decimal": 202,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28CB",
+    "braille": "⣋",
+    "dots": [
+      1,
+      2,
+      4,
+      7,
+      8
+    ],
+    "dot_string": "12478",
+    "decimal": 203,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28CC",
+    "braille": "⣌",
+    "dots": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "dot_string": "3478",
+    "decimal": 204,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28CD",
+    "braille": "⣍",
+    "dots": [
+      1,
+      3,
+      4,
+      7,
+      8
+    ],
+    "dot_string": "13478",
+    "decimal": 205,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28CE",
+    "braille": "⣎",
+    "dots": [
+      2,
+      3,
+      4,
+      7,
+      8
+    ],
+    "dot_string": "23478",
+    "decimal": 206,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28CF",
+    "braille": "⣏",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      7,
+      8
+    ],
+    "dot_string": "123478",
+    "decimal": 207,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28D0",
+    "braille": "⣐",
+    "dots": [
+      5,
+      7,
+      8
+    ],
+    "dot_string": "578",
+    "decimal": 208,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28D1",
+    "braille": "⣑",
+    "dots": [
+      1,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "1578",
+    "decimal": 209,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28D2",
+    "braille": "⣒",
+    "dots": [
+      2,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "2578",
+    "decimal": 210,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28D3",
+    "braille": "⣓",
+    "dots": [
+      1,
+      2,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "12578",
+    "decimal": 211,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28D4",
+    "braille": "⣔",
+    "dots": [
+      3,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "3578",
+    "decimal": 212,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28D5",
+    "braille": "⣕",
+    "dots": [
+      1,
+      3,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "13578",
+    "decimal": 213,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28D6",
+    "braille": "⣖",
+    "dots": [
+      2,
+      3,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "23578",
+    "decimal": 214,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28D7",
+    "braille": "⣗",
+    "dots": [
+      1,
+      2,
+      3,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "123578",
+    "decimal": 215,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28D8",
+    "braille": "⣘",
+    "dots": [
+      4,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "4578",
+    "decimal": 216,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28D9",
+    "braille": "⣙",
+    "dots": [
+      1,
+      4,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "14578",
+    "decimal": 217,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28DA",
+    "braille": "⣚",
+    "dots": [
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "24578",
+    "decimal": 218,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28DB",
+    "braille": "⣛",
+    "dots": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "124578",
+    "decimal": 219,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28DC",
+    "braille": "⣜",
+    "dots": [
+      3,
+      4,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "34578",
+    "decimal": 220,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28DD",
+    "braille": "⣝",
+    "dots": [
+      1,
+      3,
+      4,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "134578",
+    "decimal": 221,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28DE",
+    "braille": "⣞",
+    "dots": [
+      2,
+      3,
+      4,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "234578",
+    "decimal": 222,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28DF",
+    "braille": "⣟",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8
+    ],
+    "dot_string": "1234578",
+    "decimal": 223,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28E0",
+    "braille": "⣠",
+    "dots": [
+      6,
+      7,
+      8
+    ],
+    "dot_string": "678",
+    "decimal": 224,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28E1",
+    "braille": "⣡",
+    "dots": [
+      1,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "1678",
+    "decimal": 225,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28E2",
+    "braille": "⣢",
+    "dots": [
+      2,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "2678",
+    "decimal": 226,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28E3",
+    "braille": "⣣",
+    "dots": [
+      1,
+      2,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "12678",
+    "decimal": 227,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28E4",
+    "braille": "⣤",
+    "dots": [
+      3,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "3678",
+    "decimal": 228,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28E5",
+    "braille": "⣥",
+    "dots": [
+      1,
+      3,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "13678",
+    "decimal": 229,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28E6",
+    "braille": "⣦",
+    "dots": [
+      2,
+      3,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "23678",
+    "decimal": 230,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28E7",
+    "braille": "⣧",
+    "dots": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "123678",
+    "decimal": 231,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28E8",
+    "braille": "⣨",
+    "dots": [
+      4,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "4678",
+    "decimal": 232,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28E9",
+    "braille": "⣩",
+    "dots": [
+      1,
+      4,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "14678",
+    "decimal": 233,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28EA",
+    "braille": "⣪",
+    "dots": [
+      2,
+      4,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "24678",
+    "decimal": 234,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28EB",
+    "braille": "⣫",
+    "dots": [
+      1,
+      2,
+      4,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "124678",
+    "decimal": 235,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28EC",
+    "braille": "⣬",
+    "dots": [
+      3,
+      4,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "34678",
+    "decimal": 236,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28ED",
+    "braille": "⣭",
+    "dots": [
+      1,
+      3,
+      4,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "134678",
+    "decimal": 237,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28EE",
+    "braille": "⣮",
+    "dots": [
+      2,
+      3,
+      4,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "234678",
+    "decimal": 238,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28EF",
+    "braille": "⣯",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "1234678",
+    "decimal": 239,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28F0",
+    "braille": "⣰",
+    "dots": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "5678",
+    "decimal": 240,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28F1",
+    "braille": "⣱",
+    "dots": [
+      1,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "15678",
+    "decimal": 241,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28F2",
+    "braille": "⣲",
+    "dots": [
+      2,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "25678",
+    "decimal": 242,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28F3",
+    "braille": "⣳",
+    "dots": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "125678",
+    "decimal": 243,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28F4",
+    "braille": "⣴",
+    "dots": [
+      3,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "35678",
+    "decimal": 244,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28F5",
+    "braille": "⣵",
+    "dots": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "135678",
+    "decimal": 245,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28F6",
+    "braille": "⣶",
+    "dots": [
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "235678",
+    "decimal": 246,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28F7",
+    "braille": "⣷",
+    "dots": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "1235678",
+    "decimal": 247,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28F8",
+    "braille": "⣸",
+    "dots": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "45678",
+    "decimal": 248,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28F9",
+    "braille": "⣹",
+    "dots": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "145678",
+    "decimal": 249,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28FA",
+    "braille": "⣺",
+    "dots": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "245678",
+    "decimal": 250,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28FB",
+    "braille": "⣻",
+    "dots": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "1245678",
+    "decimal": 251,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28FC",
+    "braille": "⣼",
+    "dots": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "345678",
+    "decimal": 252,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28FD",
+    "braille": "⣽",
+    "dots": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "1345678",
+    "decimal": 253,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28FE",
+    "braille": "⣾",
+    "dots": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "2345678",
+    "decimal": 254,
+    "is_6dot": false,
+    "is_8dot": true
+  },
+  {
+    "unicode": "U+28FF",
+    "braille": "⣿",
+    "dots": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "dot_string": "12345678",
+    "decimal": 255,
+    "is_6dot": false,
+    "is_8dot": true
+  }
+]
