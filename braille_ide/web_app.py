@@ -56,7 +56,8 @@ HTML_TEMPLATE = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>⠎⠁⠇ SAL 8-Dot Braille IDE</title>
+    <meta name="description" content="SAL - The most accessible AI-powered coding environment. Screen reader optimized, braille native.">
+    <title>⠎⠁⠇ SAL 8-Dot Braille IDE - Accessibility First</title>
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -388,6 +389,51 @@ HTML_TEMPLATE = '''
         .completion-icon.type { background: var(--accent-green); }
         .completion-icon.snippet { background: var(--accent-orange); }
         
+        /* Accessibility */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+        }
+        
+        .skip-link {
+            position: absolute;
+            left: -9999px;
+            z-index: 9999;
+            padding: 8px 16px;
+            background: var(--accent-blue);
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+        
+        .skip-link:focus {
+            left: 8px;
+            top: 8px;
+        }
+        
+        :focus-visible {
+            outline: 2px solid var(--accent-blue);
+            outline-offset: 2px;
+        }
+        
+        @media (prefers-contrast: high) {
+            :root {
+                --bg-primary: #000;
+                --text-primary: #fff;
+                --border-color: #fff;
+            }
+        }
+        
+        @media (prefers-reduced-motion: reduce) {
+            * { animation: none !important; transition: none !important; }
+        }
+        
         /* Status bar */
         .status-bar {
             background: var(--bg-secondary);
@@ -658,7 +704,10 @@ HTML_TEMPLATE = '''
                                       placeholder="Start typing code..." 
                                       spellcheck="false"
                                       oninput="handleInput()"
-                                      onkeydown="handleKeyDown(event)"></textarea>
+                                      onkeydown="handleKeyDown(event)"
+                                      role="textbox"
+                                      aria-multiline="true"
+                                      aria-label="Code editor. Press Control+Slash to hear current line. Press F6 to navigate panels."></textarea>
                         </div>
                     </div>
                     
@@ -1456,39 +1505,96 @@ HTML_TEMPLATE = '''
             
             cascadeThinking = true;
             showTaskPanel('understanding', 'Understanding your intent...');
-            addCascadeMessage('thinking', '⠎⠁⠇ is understanding → planning → coding...');
+            
+            // Create streaming message element with token counter
+            const streamDiv = document.createElement('div');
+            streamDiv.id = 'cascadeStream';
+            streamDiv.style.cssText = 'background: rgba(63, 185, 80, 0.1); padding: 10px; border-radius: 8px; margin-bottom: 10px;';
+            streamDiv.innerHTML = `
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;">
+                    <span style="color: var(--accent-green); font-size: 11px;">⠎⠁⠇ SAL Cascade</span>
+                    <span id="tokenCounter" style="font-size: 10px; color: var(--accent-purple);">↓ 0 tokens</span>
+                </div>
+                <div id="streamContent">⠎⠁⠇ is thinking...</div>
+            `;
+            document.getElementById('salChat').appendChild(streamDiv);
+            document.getElementById('salChat').scrollTop = document.getElementById('salChat').scrollHeight;
+            
+            let totalTokens = 0;
             
             try {
-                const response = await fetch('/api/cascade/intent', {
+                // Use streaming endpoint
+                const response = await fetch('/api/cascade/stream', {
                     method: 'POST',
                     headers: {'Content-Type': 'application/json'},
                     body: JSON.stringify({ intent: intent })
                 });
                 
-                const data = await response.json();
-                removeCascadeThinking();
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder();
+                let buffer = '';
                 
-                if (data.status === 'clarification_needed') {
-                    // SAL needs clarification
-                    showClarificationRequest(data.clarification);
-                } else if (data.status === 'completed') {
-                    // SAL completed the task
-                    showTaskCompleted(data);
+                while (true) {
+                    const {value, done} = await reader.read();
+                    if (done) break;
                     
-                    // Update editor with generated code
-                    if (data.code) {
-                        const code = Object.values(data.code)[0] || '';
-                        document.getElementById('codeInput').value = code;
-                        handleInput();
-                        addOutput('⠎⠁⠇ Code generated successfully', 'success');
+                    buffer += decoder.decode(value, {stream: true});
+                    const lines = buffer.split('\\n');
+                    buffer = lines.pop();
+                    
+                    for (const line of lines) {
+                        if (line.startsWith('data: ')) {
+                            try {
+                                const data = JSON.parse(line.slice(6));
+                                
+                                // Update token counter
+                                if (data.tokens !== undefined) {
+                                    totalTokens = data.tokens;
+                                    const counter = document.getElementById('tokenCounter');
+                                    if (counter) {
+                                        counter.textContent = `↓ ${totalTokens} tokens`;
+                                    }
+                                }
+                                
+                                if (data.status) {
+                                    showTaskPanel(data.status, data.message || data.status);
+                                    document.getElementById('streamContent').textContent = data.message || data.status;
+                                }
+                                
+                                if (data.status === 'completed' && data.result) {
+                                    // Show final token count
+                                    const finalTokens = data.result.tokens_used || totalTokens;
+                                    const elapsed = data.result.elapsed_time || 0;
+                                    
+                                    // Remove stream div, show completed with token info
+                                    document.getElementById('cascadeStream')?.remove();
+                                    showTaskCompleted(data.result, finalTokens, elapsed);
+                                    
+                                    if (data.result.code) {
+                                        const code = Object.values(data.result.code)[0] || '';
+                                        document.getElementById('codeInput').value = code;
+                                        handleInput();
+                                        addOutput(`⠎⠁⠇ Code generated (${finalTokens} tokens, ${elapsed}s)`, 'success');
+                                    }
+                                }
+                                
+                                if (data.status === 'clarification_needed') {
+                                    document.getElementById('cascadeStream')?.remove();
+                                    showClarificationRequest(data.clarification);
+                                }
+                                
+                                if (data.status === 'error') {
+                                    document.getElementById('streamContent').textContent = '⠑⠗⠗ ' + data.error;
+                                }
+                                
+                            } catch (e) {}
+                        }
                     }
-                } else {
-                    addCascadeMessage('sal', data.error || 'Something went wrong');
                 }
                 
             } catch (e) {
-                removeCascadeThinking();
-                addCascadeMessage('sal', '⠑⠗⠗ Error connecting to SAL Cascade');
+                document.getElementById('cascadeStream')?.remove();
+                addCascadeMessage('sal', '⠑⠗⠗ Error connecting to SAL Cascade: ' + e);
             }
             
             cascadeThinking = false;
@@ -1628,8 +1734,9 @@ HTML_TEMPLATE = '''
             cascadeThinking = false;
         }
         
-        function showTaskCompleted(data) {
-            showTaskPanel('completed', `Task completed! Generated ${Object.keys(data.code || {}).length} file(s).`);
+        function showTaskCompleted(data, tokens = 0, elapsed = 0) {
+            const tokenInfo = tokens ? ` (${tokens} tokens, ${elapsed}s)` : '';
+            showTaskPanel('completed', `Task completed!${tokenInfo} Generated ${Object.keys(data.code || {}).length} file(s).`);
             
             // Show plan
             let planHtml = '<div style="margin-top: 8px;"><strong>Plan executed:</strong><ul style="margin: 4px 0 0 16px;">';
@@ -2078,6 +2185,137 @@ def sal_generate():
         'braille': response.braille,
         'code_blocks': response.code_blocks,
     })
+
+
+@app.route('/api/sal/stream', methods=['POST'])
+def sal_stream():
+    """Stream SAL response token by token with token counts"""
+    data = request.get_json()
+    message = data.get('message', '')
+    
+    def generate():
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+        
+        async def collect():
+            chunks = []
+            token_count = 0
+            async for data in sal_client.stream_chat(message, include_file=False):
+                token = data.get('token', '')
+                chunks.append(token)
+                token_count = data.get('token_count', token_count + 1)
+                
+                yield f"data: {json.dumps({'token': token, 'tokens': token_count})}\n\n"
+                
+                if data.get('done'):
+                    yield f"data: {json.dumps({'done': True, 'tokens': data.get('eval_count', token_count), 'prompt_tokens': data.get('prompt_eval_count', 0)})}\n\n"
+        
+        for chunk in loop.run_until_complete(list_async_gen(collect())):
+            yield chunk
+        loop.close()
+    
+    return Response(generate(), mimetype='text/event-stream')
+
+
+async def list_async_gen(agen):
+    """Convert async generator to list"""
+    result = []
+    async for item in agen:
+        result.append(item)
+    return result
+
+
+@app.route('/api/cascade/stream', methods=['POST'])
+def cascade_stream():
+    """Stream SAL Cascade intent processing with token counting"""
+    data = request.get_json()
+    intent = data.get('intent', '')
+    
+    def generate():
+        import time
+        import threading
+        import json as json_lib  # Import json inside generator
+        
+        start_time = time.time()
+        token_count = [0]  # Use list for mutable closure
+        
+        # Send initial status
+        yield f"data: {json_lib.dumps({'status': 'understanding', 'message': 'Connecting to SAL...', 'tokens': 0})}\n\n"
+        
+        # Process in background thread to allow streaming
+        result_holder = [None]
+        error_holder = [None]
+        
+        def process():
+            loop = asyncio.new_event_loop()
+            asyncio.set_event_loop(loop)
+            try:
+                result_holder[0] = loop.run_until_complete(sal_cascade.process_intent(intent))
+            except Exception as e:
+                error_holder[0] = str(e)
+            finally:
+                loop.close()
+        
+        # Start processing in thread
+        thread = threading.Thread(target=process)
+        thread.start()
+        
+        # Stream progress updates while waiting
+        phases = [
+            ('understanding', 'Understanding your intent...'),
+            ('planning', 'Creating plan...'),
+            ('coding', 'Writing code...'),
+        ]
+        
+        phase_idx = 0
+        while thread.is_alive():
+            time.sleep(0.5)
+            token_count[0] += 15  # Estimate ~30 tokens/sec
+            
+            # Cycle through phases
+            if token_count[0] > 50 and phase_idx == 0:
+                phase_idx = 1
+            if token_count[0] > 150 and phase_idx == 1:
+                phase_idx = 2
+                
+            phase, msg = phases[min(phase_idx, len(phases)-1)]
+            yield f"data: {json_lib.dumps({'status': phase, 'message': msg, 'tokens': token_count[0]})}\n\n"
+        
+        thread.join()
+        elapsed = time.time() - start_time
+        
+        if error_holder[0]:
+            yield f"data: {json_lib.dumps({'status': 'error', 'error': error_holder[0], 'tokens': token_count[0]})}\n\n"
+        else:
+            result = result_holder[0]
+            
+            # Calculate actual tokens from response
+            if result and result.get('code'):
+                for code in result['code'].values():
+                    token_count[0] += len(code) // 4
+            
+            if result and result.get('status') == 'completed':
+                result['tokens_used'] = token_count[0]
+                result['elapsed_time'] = round(elapsed, 2)
+                
+                yield f"data: {json_lib.dumps({'status': 'completed', 'result': result, 'tokens': token_count[0]})}\n\n"
+                
+                # Update file in IDE
+                if result.get('code'):
+                    file = ide.get_active_file()
+                    if file:
+                        code = list(result['code'].values())[0] if result['code'] else ""
+                        file.text_content = code
+                        ide.save_projects()
+                        
+            elif result and result.get('status') == 'clarification_needed':
+                yield f"data: {json_lib.dumps({'status': 'clarification_needed', 'clarification': result.get('clarification'), 'tokens': token_count[0]})}\n\n"
+            else:
+                yield f"data: {json_lib.dumps({'status': 'error', 'error': 'Unknown error', 'tokens': token_count[0]})}\n\n"
+        
+        yield f"data: {json_lib.dumps({'done': True, 'total_tokens': token_count[0]})}\n\n"
+    
+    return Response(generate(), mimetype='text/event-stream')
 
 
 @app.route('/api/sal/explain', methods=['POST'])

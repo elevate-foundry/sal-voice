@@ -181,13 +181,14 @@ When generating code:
             error_text = f"⠑⠗⠗ Error: {str(e)}"
             return SALResponse(text=error_text, braille=self.encoder.encode(error_text))
             
-    async def stream_chat(self, message: str, include_file: bool = True) -> AsyncGenerator[str, None]:
-        """Stream response from SAL token by token"""
+    async def stream_chat(self, message: str, include_file: bool = True) -> AsyncGenerator[Dict, None]:
+        """Stream response from SAL token by token with token counts"""
         user_msg = SALMessage(role="user", content=message)
         self.conversation_history.append(user_msg)
         
         prompt = self._build_prompt(message, include_file)
         full_response = ""
+        token_count = 0
         
         try:
             async with httpx.AsyncClient(timeout=120.0) as client:
@@ -206,7 +207,26 @@ When generating code:
                                 data = json.loads(line)
                                 token = data.get("response", "")
                                 full_response += token
-                                yield token
+                                token_count += 1
+                                
+                                # Yield token with metadata
+                                yield {
+                                    "token": token,
+                                    "token_count": token_count,
+                                    "eval_count": data.get("eval_count", token_count),
+                                    "done": data.get("done", False)
+                                }
+                                
+                                # If done, include final stats
+                                if data.get("done"):
+                                    yield {
+                                        "token": "",
+                                        "token_count": token_count,
+                                        "eval_count": data.get("eval_count", token_count),
+                                        "prompt_eval_count": data.get("prompt_eval_count", 0),
+                                        "total_duration": data.get("total_duration", 0),
+                                        "done": True
+                                    }
                             except json.JSONDecodeError:
                                 continue
                                 
@@ -215,7 +235,7 @@ When generating code:
             self.conversation_history.append(sal_msg)
             
         except Exception as e:
-            yield f"\n⠑⠗⠗ Error: {str(e)}"
+            yield {"token": f"\n⠑⠗⠗ Error: {str(e)}", "error": True}
             
     async def generate_code(self, instruction: str, language: str = None) -> SALResponse:
         """Generate code based on instruction"""
