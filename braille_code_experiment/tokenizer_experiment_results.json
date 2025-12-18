@@ -1,0 +1,14 @@
+{
+  "experiment_date": "2025-12-17 22:48:13",
+  "train_files": 20,
+  "test_files": 5,
+  "ascii_total_tokens": 17727,
+  "braille_total_tokens": 17737,
+  "ascii_avg_tokens": 3545.4,
+  "braille_avg_tokens": 3547.4,
+  "ratio": 1.000564111242737,
+  "braille_more_efficient": false,
+  "improvement_percent": null,
+  "ascii_vocab_size": 4000,
+  "braille_vocab_size": 4000
+}

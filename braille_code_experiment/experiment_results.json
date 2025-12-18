@@ -1,0 +1,283 @@
+{
+  "experiment_date": "2025-12-17 22:38:45",
+  "total_samples": 25,
+  "results": [
+    {
+      "experiment": "Token Efficiency",
+      "ascii_value": 4406.48,
+      "braille_value": 26540.4,
+      "improvement_ratio": 6.023038797407455,
+      "p_value": 9.331241186119209e-15,
+      "sample_size": 25,
+      "details": {
+        "ascii_tokens_total": 110162,
+        "braille_tokens_total": 663510,
+        "ascii_tokens_std": 1373.0340830923801,
+        "braille_tokens_std": 7925.73499746238
+      }
+    },
+    {
+      "experiment": "Semantic Density",
+      "ascii_value": 0.013388520389533008,
+      "braille_value": 0.010963591549893036,
+      "improvement_ratio": 0.8188799980066689,
+      "p_value": null,
+      "sample_size": 25,
+      "details": {
+        "ascii_charset_avg": 94.52,
+        "braille_charset_avg": 74.96
+      }
+    },
+    {
+      "experiment": "Compression Ratio",
+      "ascii_value": 0.29116504040801716,
+      "braille_value": 0.12190701193145856,
+      "improvement_ratio": 0.4186869816535223,
+      "p_value": null,
+      "sample_size": 25,
+      "details": {
+        "interpretation": "Lower is better (more compressible = more redundancy)"
+      }
+    },
+    {
+      "experiment": "Pattern Frequency",
+      "ascii_value": 609.32,
+      "braille_value": 604.64,
+      "improvement_ratio": 0.9923193067682005,
+      "p_value": null,
+      "sample_size": 25,
+      "details": {
+        "interpretation": "Higher = more learnable patterns"
+      }
+    },
+    {
+      "experiment": "Bit Space Utilization",
+      "ascii_value": 0.7384375,
+      "braille_value": 0.2928125,
+      "improvement_ratio": 0.39652983495556493,
+      "p_value": null,
+      "sample_size": 25,
+      "details": {
+        "ascii_chars_used": 94.52,
+        "braille_chars_used": 74.96,
+        "ascii_wasted_capacity": 33.480000000000004,
+        "braille_wasted_capacity": 181.04000000000002
+      }
+    },
+    {
+      "experiment": "Structural Encoding",
+      "ascii_value": 0,
+      "braille_value": 0.03214646100619865,
+      "improvement_ratio": Infinity,
+      "p_value": null,
+      "sample_size": 25,
+      "details": {
+        "dot7_keyword_correlation": 0.013406371630387775,
+        "dot8_number_correlation": 0.01874008937581087,
+        "total_braille_chars_analyzed": 6937
+      }
+    }
+  ],
+  "samples": [
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/multimodal_app.py",
+      "language": "python",
+      "ascii_tokens": 5217,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille8_code.py",
+      "language": "python",
+      "ascii_tokens": 4942,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/config.py",
+      "language": "python",
+      "ascii_tokens": 608,
+      "braille_tokens": 4269,
+      "ascii_len": 1423,
+      "braille_len": 1423
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille8_core.py",
+      "language": "python",
+      "ascii_tokens": 5057,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/tts_engine.py",
+      "language": "python",
+      "ascii_tokens": 2357,
+      "braille_tokens": 14337,
+      "ascii_len": 4779,
+      "braille_len": 4779
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/scl_bridge.py",
+      "language": "python",
+      "ascii_tokens": 4303,
+      "braille_tokens": 24606,
+      "ascii_len": 8202,
+      "braille_len": 8202
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/haptic_code_debugger.py",
+      "language": "python",
+      "ascii_tokens": 4773,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/unified_multimodal.py",
+      "language": "python",
+      "ascii_tokens": 4297,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/app.py",
+      "language": "python",
+      "ascii_tokens": 5375,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/stt_engine.py",
+      "language": "python",
+      "ascii_tokens": 2997,
+      "braille_tokens": 16560,
+      "ascii_len": 5520,
+      "braille_len": 5520
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_ide/web_app.py",
+      "language": "python",
+      "ascii_tokens": 5435,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_ide/completion.py",
+      "language": "python",
+      "ascii_tokens": 4923,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_ide/sal_cascade.py",
+      "language": "python",
+      "ascii_tokens": 4124,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_ide/interface.py",
+      "language": "python",
+      "ascii_tokens": 5491,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_ide/__init__.py",
+      "language": "python",
+      "ascii_tokens": 425,
+      "braille_tokens": 3738,
+      "ascii_len": 1246,
+      "braille_len": 1246
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_ide/core.py",
+      "language": "python",
+      "ascii_tokens": 4860,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_ide/sal_integration.py",
+      "language": "python",
+      "ascii_tokens": 5134,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_ide/code_analyzer.py",
+      "language": "python",
+      "ascii_tokens": 5120,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_ide/syntax.py",
+      "language": "python",
+      "ascii_tokens": 4667,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_ide/editor.py",
+      "language": "python",
+      "ascii_tokens": 5011,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_ide/graph_store.py",
+      "language": "python",
+      "ascii_tokens": 4842,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_ide/accessibility.py",
+      "language": "python",
+      "ascii_tokens": 4734,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_ide/output.py",
+      "language": "python",
+      "ascii_tokens": 5119,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/api/index.py",
+      "language": "python",
+      "ascii_tokens": 5363,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    },
+    {
+      "filename": "/Users/ryanbarrett/sal-voice/braille_code_experiment/experiment.py",
+      "language": "python",
+      "ascii_tokens": 4988,
+      "braille_tokens": 30000,
+      "ascii_len": 10000,
+      "braille_len": 10000
+    }
+  ]
+}
