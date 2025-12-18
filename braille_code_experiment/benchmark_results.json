@@ -1,0 +1,260 @@
+{
+  "timestamp": "2025-12-18 00:02:57",
+  "results": [
+    {
+      "name": "Noise Robustness",
+      "metric": "Threshold SNR",
+      "value": 12.216186874630761,
+      "unit": "dB",
+      "details": {
+        "all_results": [
+          {
+            "noise_level": 0.0,
+            "snr_db": 999,
+            "flow_similarity": 0.75,
+            "pattern_similarity": 1.0
+          },
+          {
+            "noise_level": 0.05,
+            "snr_db": 18.236786787910383,
+            "flow_similarity": 0.7389830508474576,
+            "pattern_similarity": 0.9875
+          },
+          {
+            "noise_level": 0.1,
+            "snr_db": 12.216186874630761,
+            "flow_similarity": 0.7169491525423729,
+            "pattern_similarity": 0.9666666666666667
+          },
+          {
+            "noise_level": 0.2,
+            "snr_db": 6.195586961351137,
+            "flow_similarity": 0.7059322033898304,
+            "pattern_similarity": 0.9291666666666667
+          },
+          {
+            "noise_level": 0.3,
+            "snr_db": 2.673761780237513,
+            "flow_similarity": 0.6838983050847458,
+            "pattern_similarity": 0.875
+          },
+          {
+            "noise_level": 0.5,
+            "snr_db": -1.763213212089614,
+            "flow_similarity": 0.6618644067796611,
+            "pattern_similarity": 0.85
+          }
+        ],
+        "threshold_noise": 0.3
+      }
+    },
+    {
+      "name": "Computational Efficiency",
+      "metric": "Throughput",
+      "value": 1378575.1060329243,
+      "unit": "samples/sec",
+      "details": {
+        "all_results": [
+          {
+            "samples": 100,
+            "encode_ms": 0.6283954200625885,
+            "match_ms": 0.9403258300153539,
+            "total_ms": 1.5687212500779424
+          },
+          {
+            "samples": 500,
+            "encode_ms": 1.3998533399717417,
+            "match_ms": 1.0244800000509713,
+            "total_ms": 2.424333340022713
+          },
+          {
+            "samples": 1000,
+            "encode_ms": 2.377520000009099,
+            "match_ms": 1.119059579941677,
+            "total_ms": 3.496579579950776
+          },
+          {
+            "samples": 5000,
+            "encode_ms": 4.350847080058884,
+            "match_ms": 1.090699579945067,
+            "total_ms": 5.441546660003951
+          },
+          {
+            "samples": 10000,
+            "encode_ms": 6.446322910051094,
+            "match_ms": 0.8075437499792315,
+            "total_ms": 7.253866660030326
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cover Song Detection",
+      "metric": "F1 Score",
+      "value": 0.8333333333333334,
+      "unit": "",
+      "details": {
+        "precision": 0.8333333333333334,
+        "recall": 0.8333333333333334,
+        "variations": [
+          {
+            "variation": "Same (control)",
+            "flow_similarity": 0.75,
+            "pattern_similarity": 1.0,
+            "expected_match": true
+          },
+          {
+            "variation": "Octave Up",
+            "flow_similarity": 0.5067796610169492,
+            "pattern_similarity": 0.75,
+            "expected_match": true
+          },
+          {
+            "variation": "Octave Down",
+            "flow_similarity": 0.46355932203389827,
+            "pattern_similarity": 0.7416666666666667,
+            "expected_match": true
+          },
+          {
+            "variation": "With Harmonics",
+            "flow_similarity": 0.75,
+            "pattern_similarity": 1.0,
+            "expected_match": true
+          },
+          {
+            "variation": "Tempo 1.2x",
+            "flow_similarity": 0.6838983050847458,
+            "pattern_similarity": 0.7541666666666667,
+            "expected_match": true
+          },
+          {
+            "variation": "Tempo 0.8x",
+            "flow_similarity": 0.6838983050847458,
+            "pattern_similarity": 0.7625,
+            "expected_match": true
+          },
+          {
+            "variation": "Different Melody",
+            "flow_similarity": 0.46355932203389827,
+            "pattern_similarity": 0.7625,
+            "expected_match": false
+          },
+          {
+            "variation": "Random Noise",
+            "flow_similarity": 0.5076271186440677,
+            "pattern_similarity": 0.7166666666666667,
+            "expected_match": false
+          }
+        ]
+      }
+    },
+    {
+      "name": "Storage Efficiency",
+      "metric": "Flow Sequence Size",
+      "value": 177,
+      "unit": "bytes/minute",
+      "details": {
+        "raw_audio": 5292000,
+        "braille_waveform": 180,
+        "flow_sequence": 177,
+        "dl_embedding": 2048,
+        "chromaprint": 120
+      }
+    },
+    {
+      "name": "Tempo Variation",
+      "metric": "Avg Similarity (0.75x-1.25x)",
+      "value": 0.7323728813559323,
+      "unit": "",
+      "details": {
+        "all_results": [
+          {
+            "factor": 0.5,
+            "flow_sim": 0.75,
+            "pattern_sim": 1.0
+          },
+          {
+            "factor": 0.75,
+            "flow_sim": 0.7059322033898304,
+            "pattern_sim": 0.9916666666666667
+          },
+          {
+            "factor": 0.9,
+            "flow_sim": 0.7279661016949153,
+            "pattern_sim": 0.9958333333333333
+          },
+          {
+            "factor": 1.0,
+            "flow_sim": 0.75,
+            "pattern_sim": 1.0
+          },
+          {
+            "factor": 1.1,
+            "flow_sim": 0.75,
+            "pattern_sim": 1.0
+          },
+          {
+            "factor": 1.25,
+            "flow_sim": 0.7279661016949153,
+            "pattern_sim": 0.9958333333333333
+          },
+          {
+            "factor": 1.5,
+            "flow_sim": 0.6949152542372882,
+            "pattern_sim": 0.9875
+          },
+          {
+            "factor": 2.0,
+            "flow_sim": 0.6177966101694915,
+            "pattern_sim": 0.9708333333333333
+          }
+        ]
+      }
+    },
+    {
+      "name": "Amplitude Variation",
+      "metric": "Avg Similarity",
+      "value": 0.75,
+      "unit": "",
+      "details": {
+        "all_results": [
+          {
+            "factor": 0.1,
+            "flow_sim": 0.75,
+            "pattern_sim": 1.0
+          },
+          {
+            "factor": 0.25,
+            "flow_sim": 0.75,
+            "pattern_sim": 1.0
+          },
+          {
+            "factor": 0.5,
+            "flow_sim": 0.75,
+            "pattern_sim": 1.0
+          },
+          {
+            "factor": 0.75,
+            "flow_sim": 0.75,
+            "pattern_sim": 1.0
+          },
+          {
+            "factor": 1.0,
+            "flow_sim": 0.75,
+            "pattern_sim": 1.0
+          },
+          {
+            "factor": 1.5,
+            "flow_sim": 0.75,
+            "pattern_sim": 1.0
+          },
+          {
+            "factor": 2.0,
+            "flow_sim": 0.75,
+            "pattern_sim": 1.0
+          }
+        ]
+      }
+    }
+  ]
+}
