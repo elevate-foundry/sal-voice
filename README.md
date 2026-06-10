@@ -61,3 +61,17 @@ sal-voice integrates with:
 ---
 
 **⠠⠎⠁⠇_⠧⠕⠊⠉⠑_⠁⠉⠞⠊⠧⠑** - SAL Voice Active
+
+<!-- ELEVATE:BEGIN (auto-generated section; edits here are overwritten) -->
+## About
+
+| | |
+| --- | --- |
+| **Description** | SAL Voice - Unified multimodal interface with 8-dot braille core |
+| **Language** | Python |
+| **Commits** | 12 |
+| **Created** | 2025-12-18 |
+| **Last push** | 2025-12-18 |
+
+Part of [**elevate-foundry**](https://github.com/elevate-foundry) · [repository](https://github.com/elevate-foundry/sal-voice)
+<!-- ELEVATE:END -->
